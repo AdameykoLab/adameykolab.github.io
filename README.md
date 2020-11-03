@@ -1,1 +1,0 @@
-# adameykolab.github.io

@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- lfaure
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 
@@ -9,14 +9,14 @@ interests:
 - Developmental Biology
 - Evolution
 - Exo-biology
-name: Adameyko Lab
+name: Louis Faure
 organizations:
 - name: Medical University of Vienna
   url: ""
 social:
 superuser: true
 user_groups:
-- Admin
+- PhD Students
 ---
 
 We are known for running projects that tackle different aspects of organismal biology. We look at a range of live systems from a mechanistic point of view, trying to reverse engineer different aspects of multicellular life. Tracing the incremental advancements in development of multicellular organisms from a single cell perspective allows better understanding of the complexity of the entire organism or organ system in a final phase. That is why our main strength is developmental biology. The knowledge gained from developmental biology research is widely applied in regenerative medicine. Thus, we hope to improve human health via discovering new fundamental ideas about how development, stem cells, and regeneration work.

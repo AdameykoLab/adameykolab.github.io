@@ -34,43 +34,5 @@ subtitle = ""
   name = "Linux"
   description = ""  
 
-[[feature]]
-  icon = "server"
-  icon_pack = "custom"
-  name = "Server managment"
-  description = ""
-
-
-[[feature]]
-  icon = "gpu3"
-  icon_pack = "custom"
-  name = "GPU data analysis"
-  description = ""
-  
-
-[[feature]]
-  icon = "illustrator"
-  icon_pack = "custom"
-  name = "Illustrator"
-  description = ""
-
-  
-[[feature]]
-  icon = "Cloning"
-  icon_pack = "custom"
-  name = "Cloning"
-  description = ""
-  
-[[feature]]
-  icon = "Fiji"
-  icon_pack = "custom"
-  name = "ImageJ"
-  description = ""
-  
-[[feature]]
-  icon = "ableton"
-  icon_pack = "custom"
-  name = "Music production"
-  description = ""
 
 +++

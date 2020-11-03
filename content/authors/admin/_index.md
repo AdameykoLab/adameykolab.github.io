@@ -12,6 +12,7 @@ interests:
 name: Adameyko Lab
 organizations:
 - name: Medical University of Vienna
+- name: Karolinska Institutet
   url: ""
 social:
 superuser: true

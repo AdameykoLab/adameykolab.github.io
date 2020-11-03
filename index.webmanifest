@@ -1,9 +1,9 @@
 {
-  "name": "Louis Faure",
-  "short_name": "Louis Faure",
+  "name": "AdameykoLab",
+  "short_name": "AdameykoLab",
   "lang": "en-us",
-  "theme_color": "#0A1922",
-  "background_color": "#0A1922",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",

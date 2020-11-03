@@ -4,7 +4,6 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  scroll-behavior: smooth;
 }
 .arrow-container{
   width: 100px;
@@ -113,7 +112,7 @@ html, body {
 
     <h1 class="hero-title">
       {{ with $page.Title }}{{ . | markdownify }}{{ end }}
-      <a href="#about" rel="no-refresh"><div class="arrow-container animated fadeInDown">
+      <a class="arrow" href="#about" rel="no-refresh"><div class="arrow-container animated fadeInDown">
   <div class="arrow-2">
     <i class="fa fa-angle-down"></i>
   </div>

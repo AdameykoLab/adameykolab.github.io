@@ -112,6 +112,44 @@
       $(this).collapse('hide');
     }
   });
+  
+  
+   $('.arrow').on('click', function(event) {
+    // Store requested URL hash.
+    let hash = this.hash;
+
+    // If we are on a widget page and the navbar link is to a section on the same page.
+    if ( this.pathname === window.location.pathname && hash && $(hash).length && ($(".js-widget-page").length > 0)) {
+      // Prevent default click behavior.
+      event.preventDefault();
+
+      // Use jQuery's animate() method for smooth page scrolling.
+      // The numerical parameter specifies the time (ms) taken to scroll to the specified hash.
+      let elementOffset = Math.ceil($(hash).offset().top - getNavBarHeight());  // Round up to highlight right ID!
+
+      // Uncomment to debug.
+      // let scrollTop = $(window).scrollTop();
+      // let scrollDelta = (elementOffset - scrollTop);
+      // console.debug('Scroll Delta: ' + scrollDelta);
+
+      $('html, body').animate({
+        scrollTop: elementOffset
+      }, 800);
+    }
+  });
+
+  /* ---------------------------------------------------------------------------
+   * Hide mobile collapsable menu on clicking a link.
+   * --------------------------------------------------------------------------- */
+
+  $(document).on('click', '.navbar-collapse.show', function(e) {
+    //get the <a> element that was clicked, even if the <span> element that is inside the <a> element is e.target
+    let targetElement = $(e.target).is('a') ? $(e.target) : $(e.target).parent();
+
+    if (targetElement.is('a') && targetElement.attr('class') != 'dropdown-toggle') {
+      $(this).collapse('hide');
+    }
+  });
 
   /* ---------------------------------------------------------------------------
    * Filter publications.

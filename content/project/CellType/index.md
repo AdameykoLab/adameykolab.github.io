@@ -36,3 +36,9 @@ Finally, we also work on a problem of evolution of cell types and animal designs
 
 To be more detailed, we are interested in the neural crest evolution and the logic of expansion of the plethora of neural crest-derived fates in different chordate animals. Based on our neural crest-related research, we aim to generalize the molecular principles of cell type diversification and division of labor. Today, we apply comparative single cell transcriptomics to compare cell phenotypes and identities from different animals and to track how the cells change over geological time. 
 
+Relevant paper:
+https://www.pnas.org/content/117/30/17854
+“Prototypical pacemaker neurons interact with the resident microbiota”
+PNAS 2019.
+
+

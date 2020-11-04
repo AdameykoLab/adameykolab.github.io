@@ -17,21 +17,21 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "python"
+  icon = "embryo"
   icon_pack = "custom"
-  name = "Python"
+  name = "Developmental studies"
   description = ""  
 
 [[feature]]
-  icon = "R"
+  icon = "confocal"
   icon_pack = "custom"
-  name = "R"
+  name = "Advanced imaging"
   description = ""
   
 [[feature]]
-  icon = "Tux"
+  icon = "scRNAseq"
   icon_pack = "custom"
-  name = "Linux"
+  name = "Advanced scRNAseq analysis"
   description = ""  
 
 

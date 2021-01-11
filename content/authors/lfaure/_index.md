@@ -3,20 +3,6 @@ authors:
 - admin
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
-education:
-  courses:
-  - course: PhD candidate in Neuroscience
-    institution: Medical University of Vienna
-    year: 2018
-  - course: Diploma Institute for Technology Innovation
-    institution: PSL University, Paris
-    year: 2017
-  - course: Msc in Interdisciplinary Approaches in Life Science
-    institution: Center for Research and Interdisciplinarity, Paris
-    year: 2016
-  - course: BSc in Life Science
-    institution: Center for Research and Interdisciplinarity, Paris
-    year: 2013
 email: "louis.faure@meduniwien.ac.at"
 interests:
 name: Louis Faure

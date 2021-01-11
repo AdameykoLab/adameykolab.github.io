@@ -21,6 +21,7 @@ jobs:
           githubToken: ${{ secrets.DEPLOY_TOKEN }}
           # Remember to set this as a secret (i.e. secrets.PERSONAL_TOKEN).
           # Don't forget to set the secret value in the project settings.
+          cname: adameykolab.eu
           # Use if you have a custom domain for your site.
           branch: main # Or anything else
           # Use if your site is not hosted on the gh-pages branch.

@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "4 Spitalgasse", city = "Wien", region = "", postcode = "1190", country = "Austria", country_code = "AT"}
+address = {street = "4 Spitalgasse", city = "Wien", region = "", postcode = "1090", country = "Austria", country_code = "AT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

@@ -1,33 +1,11 @@
 ---
 title: Evolution of cell types and mechanisms controlling cell identity
-summary:  test 
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+summary: ---
+date: "2021-01-02"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: 
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 Finally, we also work on a problem of evolution of cell types and animal designs that result from cell type evolution. As cells became more and more diverse in organisms over geological time, they built bodies that are more sophisticated, by assigning new functions and properties to biological tissues. All great evolutionary leaps and transitions in animal body plans presumably involved elaboration of novel embryonic cell types – for instance, specific classes of embryonic progenitors. 

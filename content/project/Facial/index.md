@@ -1,33 +1,13 @@
 ---
 title: The enigma of human facial diversity  
-summary:  test 
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+summary:  ---
+
+date: "2021-01-03"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: 
-  focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 Another large-scale project we are working on is focused on understanding the molecular mechanisms behind human facial diversity. We humans are the only animals that communicate identity via individual-specific variation of facial shape. In this respect, humans are unique. Other animals recognize each other rather based on the general appearance, smell, posture, behavior, coloration of fur and feathers, etc. Here we make an attempt to discover the genetic and molecular basis of such healthy facial shape variation. Overall, we are trying to understand what makes us different, unique, and beautiful. Because our faces develop in utero from neural crest stem cells, these multipotent progenitors become the center of our study. 

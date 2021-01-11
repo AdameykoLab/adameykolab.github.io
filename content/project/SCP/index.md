@@ -1,33 +1,12 @@
 ---
 title: Multipotency of SCPs. Role of SCPs in development of sympathoadrenal system
-summary:  test 
+summary: ---
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2021-01-07"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 Recently, we have discovered an entirely new phenomenon in developmental biology – targeted recruitment and subsequent differentiation of multipotent cells from the pervasive peripheral nerves. In brief, during recent years, one of the aims of our research was to define the source of the late embryonic and adult neural crest to harness the regenerative power of this cellular population. With the help of various methods, we revealed a new principle allowing embryos to position cells during histogenesis: nerve-associated glia and neural crest-like progenitor pools undergo nerve-regulated migration and differentiation into peripheral autonomic neurons (Dyachuk et al., Science 2014), neuroendocrine chromaffin cells (Furlan et al., Science 2017), melanocytes (Adameyko et al., Cell 2019) and different types of mesenchymal cells (Kaukua and Khatibi et al., Nature 2014). Our first breakthrough came in 2009 (Cell) and followed in 2012 (Development) demonstrating that Schwann cell precursors residing along growing peripheral nerves give rise to melanocytes (pigment cells in skin). Today, many biological questions in the lab are focused around the idea that peripheral nerves are essential for the development of organs; they contribute multipotent precursor cells to local tissues and serve as delivery routes for universal progenitors giving rise to numerous cell types. We apply single cell transcriptomics, color multiplexing in genetic tracing as well as functional studies in mouse, chick and zebrafish to address the relationships and molecular similarities between peripheral glial cells and migratory neural crest populations. Our single cell approach coupled to powerful validation systems allows investigating gene regulatory networks that drive differentiation of the neural crest and nerve-associate multipotent Schwann cell precursors.
 

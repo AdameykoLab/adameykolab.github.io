@@ -1,33 +1,12 @@
 ---
 title: The conundrum of the neural crest multipotency and the mechanisms of a fate choice
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+summary: ---
+date: "2021-01-05"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 Lately, the neural crest cells attracted a lot of attention, as these cells are multipotent and contribute to numerous cell and tissue types in the vertebrate embryo. Neural crest cells generate skeletogenic tissues in our faces, the outflow tract of the heart, pigmentation, the autonomic and enteric nervous system, dental pulp and hard matrix of our teeth. These cells generate neurons that sense and convey touch, pain, heat and information about the position of the body parts in space, and many more. Because of their major role, neural crest cells are considered to be the 4th germ layer. Although the multipotency of neural crest cells has been well known for decades, there is still an unsolved conundrum related to how cells make decisions and choose fate during embryonic development. For instance, currently, there is no genealogical model that would describe the multipotency type (individual or collective) in the neural crest lineage. We are attempting to create such a model, to discover how neural crest cells choose fates during developmental progression towards multiple derivatives, and what defines the differences in such choices in the cranial and trunk regions.
 

@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-email: "mm"
+email: "polina.kameneva@ki.se"
 interests:
 name: Polina Kameneva
 organizations:

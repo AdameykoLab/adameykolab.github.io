@@ -4,11 +4,6 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 
-interests:
-- Computational Biology
-- Developmental Biology
-- Evolution
-- Exo-biology
 name: Adameyko Lab
 organizations:
 - name: Medical University of Vienna

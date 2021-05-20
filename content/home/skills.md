@@ -31,8 +31,8 @@ subtitle = ""
 [[feature]]
   icon = "scRNAseq"
   icon_pack = "custom"
-  name = "Advanced scRNAseq analysis"
-  description = "Dataset clustering and integration<br/>Trajectory analysis<br/>Non-model organism exploration"  
+  name = "Advanced bioinformatics"
+  description = "scRNAseq and scATACseq<br/>Trajectory analysis and viral barcoding<br/>Non-model organism exploration"  
 
 
 +++

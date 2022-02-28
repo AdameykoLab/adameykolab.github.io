@@ -4,7 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic {{ site.Data.academic.version }}">
-
+{{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}
   {{ $scr := .Scratch }}
 
   {{/* Attempt to load superuser. */}}

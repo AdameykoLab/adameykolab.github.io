@@ -25,17 +25,10 @@
 {{ end }}
 
 {{ with $pdf }}
-<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  {{ i18n "btn_pdf" }}
-</a>
+<a href="{{ . }}" target="_blank" rel="noopener"><img  class="btn btn-shield" src="https://img.shields.io/static/v1?logo=adobeacrobatreader&message=PDF&color=red&label=" alt="PDF"></a>
+
 {{ end }}
-{{ $resource := $page.Resources.GetMatch "cite.bib" }}
-{{ with $resource }}
-<button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="{{ .RelPermalink }}">
-  {{ i18n "btn_cite" }}
-</button>
-{{ end }}
+
 {{ with $page.Params.url_code }}
   {{ $resource := $page.Resources.GetMatch . }}
   {{ if $resource }}
@@ -43,21 +36,9 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_code" }}
-</a>
+<a href="{{ . }}" target="_blank" rel="noopener"><img  class="btn btn-shield" src="https://img.shields.io/static/v1?logo=github&message=Code&color=24292f&label=" alt="Code"></a>
 {{ end }}
-{{ with $page.Params.url_dataset }}
-  {{ $resource := $page.Resources.GetMatch . }}
-  {{ if $resource }}
-    {{ $link = $resource.RelPermalink }}
-  {{ else }}
-    {{ $link = . | relURL }}
-  {{ end }}
-<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_dataset" }}
-</a>
-{{ end }}
+
 {{ if $page.Params.projects }}
 {{ range $page.Params.projects }}
   {{ with (site.GetPage (printf "project/%s" .)) }}
@@ -127,10 +108,40 @@
   {{ i18n "btn_source" }}
 </a>
 {{ end }}
+
+{{ $resource := $page.Resources.GetMatch "cite.bib" }}
+{{ with $resource }}
+<button type="button" class="btn js-cite-modal" style="padding: 0 0 0 0;"
+        data-filename="{{ .RelPermalink }}">
+  <a><img  class="btn btn-shield" src="https://img.shields.io/badge/BibTex-Cite-blueviolet" alt="Cite"></a>
+</button>
+{{ end }}
+
 {{ with $page.Params.doi }}
-<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
-  DOI
-</a>
+<a href="https://doi.org/{{ . }}"><img  class="btn btn-shield" src="https://img.shields.io/static/v1?&message={{ . }}&color=blue&label=DOI" alt="DOI"></a>
+
+{{ with $page.Params.url_dataset }}
+  {{ $resource := $page.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a href="{{ $link }}" target="_blank" rel="noopener"><img  class="btn btn-shield" src="https://img.shields.io/badge/Dataset-download-green" alt="Dataset"></a>
+{{ end }}
+
+<!-- Dimension Badge Added -->
+
+<span
+  class="__dimensions_badge_embed__ btn btn-shield" data-doi={{ . }} data-style="large_rectangle"
+>
+</span>
+
+<script
+  async
+  src="https://badge.dimensions.ai/badge.js"
+  charset="utf-8"
+></script>
 {{ end }}
 {{ range $page.Params.links }}
   {{ $pack := or .icon_pack "fas" }}

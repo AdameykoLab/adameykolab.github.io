@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/Kaukua2014/manuscript.pdf"
 doi = "10.1038/nature13536"
 url_code = ""
 url_dataset = ""

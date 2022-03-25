@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/Adameyko2016/manuscript.pdf"
 doi = "10.3389/fphys.2016.00049"
 url_code = ""
 url_dataset = ""

@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/Krivanek2017/manuscript.pdf"
 doi = "10.3389/fphys.2017.00376"
 url_code = ""
 url_dataset = ""

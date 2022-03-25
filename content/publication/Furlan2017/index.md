@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/Furlan2017/manuscript.pdf"
 doi = "10.1126/science.aal3753"
 url_code = ""
 url_dataset = ""

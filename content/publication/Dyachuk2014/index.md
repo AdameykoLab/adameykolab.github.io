@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/Dyachuk2014/manuscript.pdf"
 doi = "10.1126/science.1253281"
 url_code = ""
 url_dataset = ""

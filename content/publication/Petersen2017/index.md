@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/Petersen2017/manuscript.pdf"
 doi = "10.1016/j.gde.2017.02.006"
 url_code = ""
 url_dataset = ""

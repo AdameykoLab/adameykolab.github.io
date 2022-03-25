@@ -11,7 +11,6 @@ summary = ""
 featured = true
 projects = []
 slides = ""
-url_pdf = "/publication/Soldatov2019/manuscript.pdf"
 doi = "10.1126/science.aas9536"
 url_code = ""
 url_dataset = ""

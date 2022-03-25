@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/Krivanek2020/manuscript.pdf"
 doi = "10.1038/s41467-020-18512-7"
 url_code = ""
 url_dataset = ""

@@ -238,8 +238,6 @@ if __name__ == "__main__":
             # I add urls to the pdf and the DOI
             if 'url_pdf' in entry:
                 the_file.write('url_pdf = "'+entry['url_pdf']+'"\n')
-            else:
-                the_file.write('url_pdf = "/publication/'+entry['ID']+'/manuscript.pdf"\n')
 
             if 'doi' in entry:
                 the_file.write('doi = "'+supetrim(entry['doi'])+'"\n')

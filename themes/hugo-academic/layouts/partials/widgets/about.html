@@ -22,14 +22,14 @@
     <div id="profile">
 
       {{ if site.Params.gravatar }}
-      <img class="portrait" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" alt="Avatar">
+      <img class="portraitmain" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" alt="Avatar">
       {{ else if $avatar }}
-      {{ $avatar_image := $avatar.Fill "250x250 Center" }}
-      <img class="portrait" src="{{ $avatar_image.RelPermalink }}" alt="Avatar">
+      {{ $avatar_image := $avatar.Fill "600x600 Center" }}
+      <img class="portraitmain" src="{{ $avatar_image.RelPermalink }}" alt="Avatar">
       {{ end }}
 
       <div class="portrait-title">
-        <h2>{{ $person.name }}</h2>
+        <h2></h2>
         {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
 
         {{ range $person.organizations }}

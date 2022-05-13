@@ -39,7 +39,8 @@
 
     
     <h2 class="article-style">
-      {{- .Params.publication | markdownify -}}
+      {{- .Params.publication | markdownify -}},
+      ({{- .Date.Format "2006" -}})
     </h2>
 
     <div class="stream-meta article-metadata">

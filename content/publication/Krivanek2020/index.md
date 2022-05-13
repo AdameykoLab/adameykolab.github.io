@@ -3,6 +3,7 @@ title = "Dental cell type atlas reveals stem and differentiated cell types in mo
 date = "2020-09-01"
 authors = ["J. Krivanek","R. A. Soldatov","M. Eleni Kastriti","T. Chontorotzea","A. Nele Herdina","J. Petersen","B. Szarowska","M. Landova","V. Kovar Matejova","L. Izakovicova Holla","U. Kuchler","I. Vidovic Zdrilic","A. Vijaykumar","A. Balic","P. Marangoni","O. D. Klein","V. C.M. Neves","V. Yianni","P. T. Sharpe","T. Harkany","B. D. Metscher","M. Baj'enoff","M. Mina","K. Fried","P. V. Kharchenko","I. Adameyko"]
 tags = []
+n_cofirsts = "2"
 publication_types = ["2"]
 publication = "_Nature Communications_"
 publication_short = ""

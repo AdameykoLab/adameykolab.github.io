@@ -3,6 +3,7 @@ title = "The transcriptional portraits of the neural crest at the individual cel
 date = "2022-01-01"
 authors = ["A. G. Erickson","P. Kameneva","I. Adameyko"]
 tags = []
+n_cofirsts = "2"
 publication_types = ["2"]
 publication = "_Seminars in Cell & Developmental Biology_"
 publication_short = ""

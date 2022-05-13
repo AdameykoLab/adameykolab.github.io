@@ -175,8 +175,6 @@ if __name__ == "__main__":
                         author_strip = author_split[1].strip() + ' ' +author_split[0].strip()
                     author_split = author_strip.split(' ')
                     author_strip = author_split[0][0]+'. '+' '.join(map(str, author_split[1:]))
-                    if author_strip == 'P. Aristidou':
-                        author_strip = 'admin'
                     author_web = get_author_link(author_strip)
                     if author_web:
                         authors_str = authors_str + '"['+author_strip+'](' + author_web + ')",'
@@ -195,6 +193,11 @@ if __name__ == "__main__":
                 the_file.write(keyword_str[:-1]+']\n')
             else:
                 the_file.write('tags = []\n')
+                
+            if 'n_cofirsts' in entry:
+                the_file.write('n_cofirsts = "'+entry['n_cofirsts']+'"\n')
+            else:
+                the_file.write('n_cofirsts = "0"\n')
             
             # Treating the publication type
             if 'ENTRYTYPE' in entry:

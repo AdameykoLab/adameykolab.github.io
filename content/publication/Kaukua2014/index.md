@@ -3,6 +3,7 @@ title = "Glial origin of mesenchymal stem cells in a tooth model system"
 date = "2014-07-01"
 authors = ["N. Kaukua","M. Khatibi Shahidi","C. Konstantinidou","V. Dyachuk","M. Kaucka","A. Furlan","Z. An","L. Wang","I. Hultman","L. Ährlund-Richter","H. Blom","H. Brismar","N. Assaife Lopes","V. Pachnis","U. Suter","H. Clevers","I. Thesleff","P. Sharpe","P. Ernfors","K. Fried","I. Adameyko"]
 tags = []
+n_cofirsts = "2"
 publication_types = ["2"]
 publication = "_Nature_"
 publication_short = ""

@@ -3,6 +3,7 @@ title = "Nerve-associated neural crest: peripheral glial cells generate multiple
 date = "2017-08-01"
 authors = ["J. Petersen","I. Adameyko"]
 tags = []
+n_cofirsts = "0"
 publication_types = ["2"]
 publication = "_Current Opinion in Genetics and Development_"
 publication_short = ""

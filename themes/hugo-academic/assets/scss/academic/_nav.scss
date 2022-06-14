@@ -13,13 +13,14 @@
 }
  
 /* if backdrop support: very transparent and blurred */
-@supports ((-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))) {
+@supports ((-webkit-backdrop-filter: blur(10px)) or (backdrop-filter: blur(10px))) {
   .navbar-light {
     background-color: rgba(255, 255, 255,.5);
-    -webkit-backdrop-filter: blur(20px);
-    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
   }
+  
 }
 
 .navbar-light .navbar-toggler {
@@ -132,6 +133,19 @@ nav#navbar-main li.nav-item {
   color: $sta-menu-title;
   background-color: transparent;
 }
+
+
+@media (max-width: 991.98px){
+    
+    .dropdown-menu, nav#navbar-main li.nav-item {
+        padding-left: 20px;
+    }
+    .navbar-nav {
+    background-color: rgba(255, 255, 255,.9);
+    box-shadow: 0.125rem 0.125rem 0.125rem 0.125rem rgba(0,0,0,.11)
+  }
+}
+
 
 @media screen and (max-width: 1200px) {
   .navbar {

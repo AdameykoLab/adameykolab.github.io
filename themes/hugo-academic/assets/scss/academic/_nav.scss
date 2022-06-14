@@ -3,12 +3,23 @@
  **************************************************/
 
 .navbar {
-  min-height: 70px !important;
+  min-height: 60px !important;
+  height: 60px
 }
 
 .navbar-light {
-  background: $sta-menu-primary !important;
+  background-color: rgba(255, 255, 255,.9);
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
+}
+ 
+/* if backdrop support: very transparent and blurred */
+@supports ((-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))) {
+  .navbar-light {
+    background-color: rgba(255, 255, 255,.5);
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
+  }
 }
 
 .navbar-light .navbar-toggler {

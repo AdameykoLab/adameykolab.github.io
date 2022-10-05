@@ -1,9 +1,9 @@
 +++
 title = "Developmental heterogeneity of embryonic neuroendocrine chromaffin cells and their maturation dynamics"
-date = "2022-01-01"
+date = "2022-09-01"
 authors = ["N. Akkuratova","L. Faure","P. Kameneva","M. Eleni Kastriti","I. Adameyko"]
 tags = []
-n_cofirsts = "0"
+n_cofirsts = "2"
 publication_types = ["2"]
 publication = "_Frontiers in Endocrinology_"
 publication_short = ""
@@ -12,9 +12,10 @@ summary = ""
 featured = false
 projects = []
 slides = ""
+url_pdf = "https://www.frontiersin.org/articles/10.3389/fendo.2022.1020000/pdf"
 doi = "10.3389/fendo.2022.1020000"
-url_code = ""
-url_dataset = ""
+url_code = "https://github.com/LouisFaure/ChromaffinFates_paper"
+url_dataset = "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE204700"
 url_poster = ""
 url_slides = ""
 url_source = ""

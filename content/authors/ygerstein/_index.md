@@ -1,12 +1,14 @@
 ---
 authors:
 - admin
-email: "mm"
+email: "yaakov.gershtein@meduniwien.ac.at"
 interests:
 name: Yakov Gerstein
+title: Yakov Gerstein
+role: PhD Student
 organizations:
 - name: Medical University of Vienna
-  url: ""
+  url: "https://www.meduniwien.ac.at/web/en/"
 social:
 - icon: envelope
   icon_pack: fas

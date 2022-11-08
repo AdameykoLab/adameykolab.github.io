@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yakov Gerstein | AdameykoLab</title>
+    <link>/authors/ygerstein/</link>
+      <atom:link href="/authors/ygerstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yakov Gerstein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yakov Gerstein</title>
+      <link>/authors/ygerstein/</link>
+    </image>
+    
+  </channel>
+</rss>

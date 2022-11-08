@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. D. Klein | AdameykoLab</title>
+    <link>/authors/o.-d.-klein/</link>
+      <atom:link href="/authors/o.-d.-klein/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. D. Klein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>O. D. Klein</title>
+      <link>/authors/o.-d.-klein/</link>
+    </image>
+    
+    <item>
+      <title>Dental cell type atlas reveals stem and differentiated cell types in mouse and human teeth</title>
+      <link>/publication/krivanek2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/krivanek2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

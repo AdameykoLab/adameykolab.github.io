@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | AdameykoLab</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Returning neural crest-derived tumors back onto developmental path</title>
+      <link>/project/tumor/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/tumor/</guid>
+      <description>&lt;p&gt;Some malignant tumors in the human body originate from cells of the neural crest lineage. Those include melanoma, neuroblastoma, pheochromocytoma, schwannoma and many others.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/Tumor1.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the moment, we are aware of few productive attempts to differentiate tumors instead of killing them and thus subjecting cancer cells to further evolution. At the same time, a systematic approach to devise such strategies is currently missing. For many tumors we don’t know how to identify inter-cellular signals that could be either disrupted or induced (directly or by mimicking their downstream effects) that would push tumor cells towards differentiation. Similarly, signaling interactions between different components of the tumor microenvironment and their interactions with the tumor cells themselves remain poorly characterized, despite numerous focused efforts. Thus, as a constellation of four different laboratories supported by the ERC Synergy project, we aim to develop and test a novel systematic approach for identifying recurrent cell-cell interactions, and apply it to find new ways to differentiate highly malignant tumors, preventing their metastasis. The neural crest cancers offer a compelling test case as they often represent examples of incomplete differentiation. This approach can be, of course, combined with chemotherapy and surgery-based tumor-eliminating strategies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/Tumor2.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multipotency of SCPs. Role of SCPs in development of sympathoadrenal system</title>
+      <link>/project/scp/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/scp/</guid>
+      <description>&lt;p&gt;Recently, we have discovered an entirely new phenomenon in developmental biology – targeted recruitment and subsequent differentiation of multipotent cells from the pervasive peripheral nerves. In brief, during recent years, one of the aims of our research was to define the source of the late embryonic and adult neural crest to harness the regenerative power of this cellular population. With the help of various methods, we revealed a new principle allowing embryos to position cells during histogenesis: nerve-associated glia and neural crest-like progenitor pools undergo nerve-regulated migration and differentiation into peripheral autonomic neurons (Dyachuk et al., Science 2014), neuroendocrine chromaffin cells (Furlan et al., Science 2017), melanocytes (Adameyko et al., Cell 2019) and different types of mesenchymal cells (Kaukua and Khatibi et al., Nature 2014). Our first breakthrough came in 2009 (Cell) and followed in 2012 (Development) demonstrating that Schwann cell precursors residing along growing peripheral nerves give rise to melanocytes (pigment cells in skin). Today, many biological questions in the lab are focused around the idea that peripheral nerves are essential for the development of organs; they contribute multipotent precursor cells to local tissues and serve as delivery routes for universal progenitors giving rise to numerous cell types. We apply single cell transcriptomics, color multiplexing in genetic tracing as well as functional studies in mouse, chick and zebrafish to address the relationships and molecular similarities between peripheral glial cells and migratory neural crest populations. Our single cell approach coupled to powerful validation systems allows investigating gene regulatory networks that drive differentiation of the neural crest and nerve-associate multipotent Schwann cell precursors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/SCP1.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We recently explored sympathoadrenal development and discovered new Schwann cell precursor-dependent cellular origin of chromaffin cells using single cell transcriptomics (Furlan et al. Science 2017). Next, we started to investigate the malignancies arising from the sympathoadrenal origin such as neuroblastoma, pheochromocytoma and paraganglioma to relate intra-tumor heterogeneity to the potential cell of origin. In our preliminary data, we observed that these tumors are highly heterogeneous and resemble stages of the neural crest differentiation into chromaffin, glomus, or sympathetic cells.  Clarifying the role of the nerve-associated Schwann cell precursors in the development of sympathoadrenal organs and corresponding malignancies might help to reveal the causes of disease heterogeneity. Creating “comparative identity maps” using single cell analyses of tumors and healthy progenitor populations will allow us to identify the precise developmental and adult origin cell types and corresponding differentiation statuses for different subtypes of neural crest tumors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/SCP2.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Video on YouTube about our work:
+&lt;a href=&#34;https://www.youtube.com/watch?v=slZokCHgqV0&#34; target=&#34;_blank&#34;&gt;https://www.youtube.com/watch?v=slZokCHgqV0&lt;/a&gt;
+Key papers:
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/28684471&#34; target=&#34;_blank&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmed/28684471&lt;/a&gt;
+“Multipotent peripheral glial cells generate neuroendocrine cells of the adrenal medulla” Science 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/24925909&#34; target=&#34;_blank&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmed/24925909&lt;/a&gt;
+“Neurodevelopment. Parasympathetic neurons originate from nerve-associated peripheral glial progenitors” Science 2014.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/28242477&#34; target=&#34;_blank&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmed/28242477&lt;/a&gt;
+ “Nerve-associated neural crest: peripheral glial cells generate multiple fates in the body” Curr Opin Genet Dev. 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The conundrum of the neural crest multipotency and the mechanisms of a fate choice</title>
+      <link>/project/ncc/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/ncc/</guid>
+      <description>&lt;p&gt;Lately, the neural crest cells attracted a lot of attention, as these cells are multipotent and contribute to numerous cell and tissue types in the vertebrate embryo. Neural crest cells generate skeletogenic tissues in our faces, the outflow tract of the heart, pigmentation, the autonomic and enteric nervous system, dental pulp and hard matrix of our teeth. These cells generate neurons that sense and convey touch, pain, heat and information about the position of the body parts in space, and many more. Because of their major role, neural crest cells are considered to be the 4th germ layer. Although the multipotency of neural crest cells has been well known for decades, there is still an unsolved conundrum related to how cells make decisions and choose fate during embryonic development. For instance, currently, there is no genealogical model that would describe the multipotency type (individual or collective) in the neural crest lineage. We are attempting to create such a model, to discover how neural crest cells choose fates during developmental progression towards multiple derivatives, and what defines the differences in such choices in the cranial and trunk regions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/NCC.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently, we suggested a completely novel generalizable model of cell fate choice that we published in Science in 2019 (Soldatov et al., Science 2019). This model is based on competition between opposite genetic programs activated by the external environment in the same cells, followed by the eventual resolution of such conflicts with developmental timing. Indeed, cells always make such decisions during embryonic development, cancer progression, and in situations where they are responding to some form of stimulation. Although we have generated a number of molecular insights into related mechanisms, we still lack mechanistic knowledge about how cells process information. This is our biggest question, and we are trying to understand what is it, that makes a decision right or wrong? We have developed peculiar ideas about faulty plasticity, when cells cannot decide their own fate, which pre-conditions them for tumorigenesis. This is in many ways linked to the question of where cancer originates from. Today, we are aware of many mutations and landscapes that promote cancer or help cancer cells to go beyond all the checkpoints. At the same time, we do not understand what is the fundamental driver of tumor cell identity during cancer initiation. In our lab, we work on these questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The progeny of the neural crest builds our teeth</title>
+      <link>/project/tooth/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/tooth/</guid>
+      <description>&lt;p&gt;Mammalian teeth are built of many cell types including those producing hard matrix – odontoblasts making dentin, ameloblasts producing enamel and cementoblasts generating tooth cement. Numerous cell subtypes reside inside of the soft dental pulp and in the surrounding tooth follicle. Vessels and sensory nerves complete the structure of a tooth. Many of these dental cells are neural crest-derived and commit to dental-specific fates because of the crosstalk between the oral epithelium and the neural crest-derived mesenchyme, resulting in a forming tooth germ.  For instance, during this process, the exact specification and differentiation of the odontoblast lineage has not been fully clarified, and the eventual fating of mesenchymal neural crest progenitors was not fully addressed. As a part of collaboration with laboratories of Kaj Fried and Jan Krivanek, we currently work on the heterogeneity of cell populations building our teeth, aiming to identify region- and tooth type-specific stem cells and define novel regenerative strategies. Recently, we utilized single cell transcriptomics to address the cell type heterogeneity in human and mouse teeth (please see Krivanek et al., Nature Communications 2020). In that study, we reported an unappreciated cellular complexity of the continuously-growing mouse incisor, which suggests a coherent model of cell dynamics enabling un-arrested growth. This model relies on spatially-restricted stem, progenitor and differentiated populations in the epithelial and mesenchymal compartments underlying the coordinated expansion of two major branches of pulpal cells and diverse epithelial subtypes. Further comparisons of human and mouse teeth yield both parallels and differences in tissue heterogeneity and highlight the specifics behind growing and non-growing modes. Despite being similar at a coarse level, mouse and human teeth reveal molecular differences and species-specific cell subtypes suggesting possible evolutionary divergence. Today, we continue this work and attempt to investigate phenotypic plasticity of cell types within teeth resulting from regenerative or infection-related stimuli.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The enigma of human facial diversity</title>
+      <link>/project/facial/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/facial/</guid>
+      <description>&lt;p&gt;Another large-scale project we are working on is focused on understanding the molecular mechanisms behind human facial diversity. We humans are the only animals that communicate identity via individual-specific variation of facial shape. In this respect, humans are unique. Other animals recognize each other rather based on the general appearance, smell, posture, behavior, coloration of fur and feathers, etc. Here we make an attempt to discover the genetic and molecular basis of such healthy facial shape variation. Overall, we are trying to understand what makes us different, unique, and beautiful. Because our faces develop in utero from neural crest stem cells, these multipotent progenitors become the center of our study.&lt;/p&gt;
+
+&lt;p&gt;We investigate a variety of the developmental aspects involved in facial shaping by cranial neural crest together with comparative genomics and transcriptomics in humans and animal models.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/Facial1.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Videos on YouTube about our work:
+&lt;a href=&#34;https://www.youtube.com/watch?v=27AkqRCe7AM&#34; target=&#34;_blank&#34;&gt;https://www.youtube.com/watch?v=27AkqRCe7AM&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=vj2CiAJlyCI&#34; target=&#34;_blank&#34;&gt;https://www.youtube.com/watch?v=vj2CiAJlyCI&lt;/a&gt;
+Relevant papers:
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/29897331&#34; target=&#34;_blank&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmed/29897331&lt;/a&gt;
+“Signals from the brain and olfactory epithelium control shaping of the mammalian nasal capsule cartilage” eLife 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/28414273&#34; target=&#34;_blank&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmed/28414273&lt;/a&gt;
+ “Oriented clonal cell dynamics enables accurate growth and shaping of vertebrate cartilage” eLife 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/26924989&#34; target=&#34;_blank&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmed/26924989&lt;/a&gt;
+“The Nervous System Orchestrates and Integrates Craniofacial Development: A Review” Front Physiol. 2016.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolution of cell types and mechanisms controlling cell identity</title>
+      <link>/project/celltype/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/celltype/</guid>
+      <description>&lt;p&gt;Finally, we also work on a problem of evolution of cell types and animal designs that result from cell type evolution. As cells became more and more diverse in organisms over geological time, they built bodies that are more sophisticated, by assigning new functions and properties to biological tissues. All great evolutionary leaps and transitions in animal body plans presumably involved elaboration of novel embryonic cell types – for instance, specific classes of embryonic progenitors.&lt;/p&gt;
+
+&lt;p&gt;To be more detailed, we are interested in the neural crest evolution and the logic of expansion of the plethora of neural crest-derived fates in different chordate animals. Based on our neural crest-related research, we aim to generalize the molecular principles of cell type diversification and division of labor. Today, we apply comparative single cell transcriptomics to compare cell phenotypes and identities from different animals and to track how the cells change over geological time.&lt;/p&gt;
+
+&lt;p&gt;Relevant paper:
+&lt;a href=&#34;https://www.pnas.org/content/117/30/17854&#34; target=&#34;_blank&#34;&gt;https://www.pnas.org/content/117/30/17854&lt;/a&gt;
+“Prototypical pacemaker neurons interact with the resident microbiota”
+PNAS 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hobby projects of the lab</title>
+      <link>/project/hobby/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/hobby/</guid>
+      <description>&lt;p&gt;We, as a team, support the diversity in thinking and favor natural curiosity of our members. This is why we always run some small hobby projects on a side in any area of modern biology and biomedicine – spanning from the mechanisms of integration operating within coral colonies to the studies of the composition of early multicellular life forms. We believe that the lab environment must be invigorating, and the broad scope together with great opportunities to tackle natural puzzles serve this function pretty well.&lt;/p&gt;
+
+&lt;p&gt;Some of our science-related hobby activities are represented on Instagram and other media channels:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/the_story_of_a_biologist/&#34; target=&#34;_blank&#34;&gt;https://www.instagram.com/the_story_of_a_biologist/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;YouTube:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCcmWJJG8XOl1dd0XK1C3e0w&#34; target=&#34;_blank&#34;&gt;https://www.youtube.com/channel/UCcmWJJG8XOl1dd0XK1C3e0w&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;and twitter:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/adameykolab?lang=en&#34; target=&#34;_blank&#34;&gt;https://twitter.com/adameykolab?lang=en&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Kaucka | AdameykoLab</title>
+    <link>/authors/m.-kaucka/</link>
+      <atom:link href="/authors/m.-kaucka/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Kaucka</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Kaucka</title>
+      <link>/authors/m.-kaucka/</link>
+    </image>
+    
+    <item>
+      <title>Schwann cell precursors represent a neural crest-like state with biased multipotency</title>
+      <link>/publication/kastriti2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/kastriti2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototypical pacemaker neurons interact with the resident microbiota</title>
+      <link>/publication/klimovich2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/klimovich2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal structure of cell fate decisions in murine neural crest</title>
+      <link>/publication/soldatov2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/soldatov2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glial origin of mesenchymal stem cells in a tooth model system</title>
+      <link>/publication/kaukua2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/kaukua2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

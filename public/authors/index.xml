@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | AdameykoLab</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>I. Adameyko</title>
+      <link>/authors/i.-adameyko/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-adameyko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Faure</title>
+      <link>/authors/l.-faure/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-faure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Eleni Kastriti</title>
+      <link>/authors/m.-eleni-kastriti/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-eleni-kastriti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Akkuratova</title>
+      <link>/authors/n.-akkuratova/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/n.-akkuratova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Kameneva</title>
+      <link>/authors/p.-kameneva/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-kameneva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Erickson</title>
+      <link>/authors/a.-erickson/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-erickson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Jackson</title>
+      <link>/authors/c.-jackson/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-jackson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Meijer</title>
+      <link>/authors/d.-meijer/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-meijer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Von Ahsen</title>
+      <link>/authors/d.-von-ahsen/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-von-ahsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Lallemend</title>
+      <link>/authors/f.-lallemend/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/f.-lallemend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Boström</title>
+      <link>/authors/j.-bostrom/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-bostrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Brunet</title>
+      <link>/authors/j.-brunet/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-brunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Krivanek</title>
+      <link>/authors/j.-krivanek/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-krivanek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Fried</title>
+      <link>/authors/k.-fried/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-fried/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Lahti</title>
+      <link>/authors/l.-lahti/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-lahti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Bronner</title>
+      <link>/authors/m.-bronner/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-bronner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Kaucka</title>
+      <link>/authors/m.-kaucka/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-kaucka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Hadjab</title>
+      <link>/authors/s.-hadjab/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-hadjab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Gerald Bouderlique</title>
+      <link>/authors/t.-gerald-bouderlique/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-gerald-bouderlique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Perlmann</title>
+      <link>/authors/t.-perlmann/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-perlmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Solovieva</title>
+      <link>/authors/t.-solovieva/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-solovieva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Dyachuk</title>
+      <link>/authors/v.-dyachuk/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-dyachuk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Kurtova</title>
+      <link>/authors/a.-kurtova/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-kurtova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Murtazina</title>
+      <link>/authors/a.-murtazina/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-murtazina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. V. Artemov</title>
+      <link>/authors/a.-v.-artemov/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-v.-artemov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. I. Sheftel</title>
+      <link>/authors/b.-i.-sheftel/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/b.-i.-sheftel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. E. Voronezhskaya</title>
+      <link>/authors/e.-e.-voronezhskaya/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-e.-voronezhskaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Kryukov</title>
+      <link>/authors/e.-kryukov/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-kryukov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Poverennaya</title>
+      <link>/authors/i.-poverennaya/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-poverennaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Kaiser</title>
+      <link>/authors/j.-kaiser/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-kaiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Neradil</title>
+      <link>/authors/j.-neradil/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-neradil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Skoda</title>
+      <link>/authors/j.-skoda/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-skoda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Curylova</title>
+      <link>/authors/l.-curylova/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-curylova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Sourada</title>
+      <link>/authors/l.-sourada/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-sourada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Bader</title>
+      <link>/authors/m.-bader/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-bader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Pasqualetti</title>
+      <link>/authors/m.-pasqualetti/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-pasqualetti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Tesarova</title>
+      <link>/authors/m.-tesarova/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-tesarova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Alenina</title>
+      <link>/authors/n.-alenina/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/n.-alenina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. V. Kudryashov</title>
+      <link>/authors/n.-v.-kudryashov/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/n.-v.-kudryashov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Chlapek</title>
+      <link>/authors/p.-chlapek/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-chlapek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Gaspar</title>
+      <link>/authors/p.-gaspar/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-gaspar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. S. Kalinina</title>
+      <link>/authors/t.-s.-kalinina/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-s.-kalinina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Zikmund</title>
+      <link>/authors/t.-zikmund/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-zikmund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. D. Yakushov</title>
+      <link>/authors/v.-d.-yakushov/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-d.-yakushov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. I. Melnikova</title>
+      <link>/authors/v.-i.-melnikova/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-i.-melnikova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Bouchnita</title>
+      <link>/authors/a.-bouchnita/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-bouchnita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. G. Erickson</title>
+      <link>/authors/a.-g.-erickson/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-g.-erickson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Hellander</title>
+      <link>/authors/a.-hellander/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-hellander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Mueller</title>
+      <link>/authors/b.-mueller/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/b.-mueller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Wild</title>
+      <link>/authors/c.-wild/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Abed-Navandi</title>
+      <link>/authors/d.-abed-navandi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-abed-navandi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Bythell</title>
+      <link>/authors/j.-bythell/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-bythell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Petersen</title>
+      <link>/authors/j.-petersen/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-petersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Englmaier</title>
+      <link>/authors/l.-englmaier/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-englmaier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Nazarov</title>
+      <link>/authors/m.-nazarov/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-nazarov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Pantos</title>
+      <link>/authors/o.-pantos/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/o.-pantos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. R. Frade</title>
+      <link>/authors/p.-r.-frade/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-r.-frade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Bouderlique</title>
+      <link>/authors/t.-bouderlique/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-bouderlique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Koehne</title>
+      <link>/authors/t.-koehne/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-koehne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. S. Tischler</title>
+      <link>/authors/a.-s.-tischler/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-s.-tischler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Semsch</title>
+      <link>/authors/b.-semsch/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/b.-semsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. R. Andersson</title>
+      <link>/authors/e.-r.-andersson/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-r.-andersson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Sundström</title>
+      <link>/authors/e.-sundstrom/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-sundstrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Frisén</title>
+      <link>/authors/j.-frisen/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-frisen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Otte</title>
+      <link>/authors/j.-otte/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-otte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Ratz</title>
+      <link>/authors/m.-ratz/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-ratz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Vorontsova</title>
+      <link>/authors/m.-vorontsova/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-vorontsova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Baryawno</title>
+      <link>/authors/n.-baryawno/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/n.-baryawno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Gusev</title>
+      <link>/authors/o.-gusev/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/o.-gusev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Kogner</title>
+      <link>/authors/p.-kogner/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-kogner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. V. Kharchenko</title>
+      <link>/authors/p.-v.-kharchenko/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-v.-kharchenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. R. de Krijger</title>
+      <link>/authors/r.-r.-de-krijger/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-r.-de-krijger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Mei</title>
+      <link>/authors/s.-mei/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-mei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. K. Olsen</title>
+      <link>/authors/t.-k.-olsen/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-k.-olsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Balic</title>
+      <link>/authors/a.-balic/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-balic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Nele Herdina</title>
+      <link>/authors/a.-nele-herdina/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-nele-herdina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Vijaykumar</title>
+      <link>/authors/a.-vijaykumar/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-vijaykumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. D. Metscher</title>
+      <link>/authors/b.-d.-metscher/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/b.-d.-metscher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Szarowska</title>
+      <link>/authors/b.-szarowska/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/b.-szarowska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Vidovic Zdrilic</title>
+      <link>/authors/i.-vidovic-zdrilic/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-vidovic-zdrilic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Izakovicova Holla</title>
+      <link>/authors/l.-izakovicova-holla/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-izakovicova-holla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Baj&#39;enoff</title>
+      <link>/authors/m.-bajenoff/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-bajenoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Landova</title>
+      <link>/authors/m.-landova/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-landova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Mina</title>
+      <link>/authors/m.-mina/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-mina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. D. Klein</title>
+      <link>/authors/o.-d.-klein/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/o.-d.-klein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Marangoni</title>
+      <link>/authors/p.-marangoni/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-marangoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. T. Sharpe</title>
+      <link>/authors/p.-t.-sharpe/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-t.-sharpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. A. Soldatov</title>
+      <link>/authors/r.-a.-soldatov/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-a.-soldatov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Chontorotzea</title>
+      <link>/authors/t.-chontorotzea/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-chontorotzea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Harkany</title>
+      <link>/authors/t.-harkany/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-harkany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U. Kuchler</title>
+      <link>/authors/u.-kuchler/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/u.-kuchler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. C.M. Neves</title>
+      <link>/authors/v.-c.m.-neves/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-c.m.-neves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Kovar Matejova</title>
+      <link>/authors/v.-kovar-matejova/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-kovar-matejova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Yianni</title>
+      <link>/authors/v.-yianni/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-yianni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Björklund</title>
+      <link>/authors/a.-bjorklund/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-bjorklund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Klimovich</title>
+      <link>/authors/a.-klimovich/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-klimovich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Matt</title>
+      <link>/authors/a.-matt/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-matt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. P. Murillo-Rincon</title>
+      <link>/authors/a.-p.-murillo-rincon/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-p.-murillo-rincon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Giez</title>
+      <link>/authors/c.-giez/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-giez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Willoweit-Ohl</title>
+      <link>/authors/d.-willoweit-ohl/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-willoweit-ohl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. C. L. Wong</title>
+      <link>/authors/g.-c.-l.-wong/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-c.-l.-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Crupi</title>
+      <link>/authors/g.-crupi/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-crupi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. de Anda</title>
+      <link>/authors/j.-de-anda/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-de-anda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. D&#39;Amato</title>
+      <link>/authors/m.-damato/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-damato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Giacomello</title>
+      <link>/authors/s.-giacomello/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-giacomello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. C. G. Bosch</title>
+      <link>/authors/t.-c.-g.-bosch/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-c.-g.-bosch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Bock</title>
+      <link>/authors/c.-bock/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-bock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Yokota</title>
+      <link>/authors/c.-yokota/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-yokota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. A. Guertin</title>
+      <link>/authors/d.-a.-guertin/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-a.-guertin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Boismoreau</title>
+      <link>/authors/f.-boismoreau/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/f.-boismoreau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Giacomo Consalez</title>
+      <link>/authors/g.-giacomo-consalez/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-giacomo-consalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Francois Brunet</title>
+      <link>/authors/j.-francois-brunet/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-francois-brunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Croci</title>
+      <link>/authors/l.-croci/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-croci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. E. Bronner</title>
+      <link>/authors/m.-e.-bronner/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-e.-bronner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Farlik</title>
+      <link>/authors/m.-farlik/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-farlik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Häring</title>
+      <link>/authors/m.-haring/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-haring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. L. Piacentino</title>
+      <link>/authors/m.-l.-piacentino/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-l.-piacentino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. M. Hilscher</title>
+      <link>/authors/m.-m.-hilscher/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-m.-hilscher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Nilsson</title>
+      <link>/authors/m.-nilsson/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-nilsson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Ernfors</title>
+      <link>/authors/p.-ernfors/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-ernfors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Soldatov</title>
+      <link>/authors/r.-soldatov/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-soldatov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Yu Hsiao</title>
+      <link>/authors/w.-yu-hsiao/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/w.-yu-hsiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. Qian</title>
+      <link>/authors/x.-qian/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/x.-qian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. Yang</title>
+      <link>/authors/y.-yang/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/y.-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;We are known for running projects that tackle different aspects of organismal biology. We look at a range of live systems from a mechanistic point of view, trying to reverse engineer different aspects of multicellular life. Tracing the incremental advancements in development of multicellular organisms from a single cell perspective allows better understanding of the complexity of the entire organism or organ system in a final phase. That is why our main strength is developmental biology. The knowledge gained from developmental biology research is widely applied in regenerative medicine. Thus, we hope to improve human health via discovering new fundamental ideas about how development, stem cells, and regeneration work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Our laboratory advances a broad spectrum of projects related to developmental biology, stem cells, EvoDevo and regenerative medicine. The methodology includes classical developmental biology approaches blended with single cell transcriptomics, 2D sequencing and 3D-reconstructions of tissues and organs based on optical or X-ray methods (micro-CT, synchrotron).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The neural crest stem cells is our primary model system, where we address general principles of cell fate choice, transcriptional and epigenetic control of a lineage progression, morphogenesis, and tissue shaping.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A. Furlan</title>
+      <link>/authors/a.-furlan/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-furlan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Kamenev</title>
+      <link>/authors/d.-kamenev/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-kamenev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Usoskin</title>
+      <link>/authors/d.-usoskin/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-usoskin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Memic</title>
+      <link>/authors/f.-memic/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/f.-memic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Abdo</title>
+      <link>/authors/h.-abdo/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/h.-abdo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Sunadome</title>
+      <link>/authors/k.-sunadome/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-sunadome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Calvo-Enrique</title>
+      <link>/authors/l.-calvo-enrique/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-calvo-enrique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Topilko</title>
+      <link>/authors/p.-topilko/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-topilko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U. Marklund</title>
+      <link>/authors/u.-marklund/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/u.-marklund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Konstantinidou</title>
+      <link>/authors/c.-konstantinidou/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-konstantinidou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Blom</title>
+      <link>/authors/h.-blom/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/h.-blom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Brismar</title>
+      <link>/authors/h.-brismar/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/h.-brismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Clevers</title>
+      <link>/authors/h.-clevers/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/h.-clevers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Hultman</title>
+      <link>/authors/i.-hultman/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-hultman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Thesleff</title>
+      <link>/authors/i.-thesleff/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-thesleff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Wang</title>
+      <link>/authors/l.-wang/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Ährlund-Richter</title>
+      <link>/authors/l.-ahrlund-richter/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-ahrlund-richter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Khatibi Shahidi</title>
+      <link>/authors/m.-khatibi-shahidi/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-khatibi-shahidi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Assaife Lopes</title>
+      <link>/authors/n.-assaife-lopes/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/n.-assaife-lopes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Kaukua</title>
+      <link>/authors/n.-kaukua/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/n.-kaukua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Sharpe</title>
+      <link>/authors/p.-sharpe/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-sharpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U. Suter</title>
+      <link>/authors/u.-suter/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/u.-suter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Pachnis</title>
+      <link>/authors/v.-pachnis/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-pachnis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. An</title>
+      <link>/authors/z.-an/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/z.-an/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Birchmeier</title>
+      <link>/authors/c.-birchmeier/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-birchmeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Giovenco</title>
+      <link>/authors/m.-giovenco/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-giovenco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Müller</title>
+      <link>/authors/t.-muller/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/aartemov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/aartemov/</guid>
+      <description>&lt;p&gt;Bioinformatician and a data scientist interested in how and when cell fate decisions are made.
+We apply different techniques to profile cell lineage, transcriptome and epigenome in individual cells during human development and immune response.
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/dvanshen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/dvanshen/</guid>
+      <description>&lt;p&gt;During my master´s thesis worked on the interaction of the embryonic autonomic nervous system and cardiogenesis, focusing also on the temporal establishment of the cardiac innervation. Now, excited to start my PhD (Molecular Neuroscience), I will expand my reasearch to study cellular and molecular mechanims driving morphogenesis and the establishment of the peripheral nervous system during murine embryogenesis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alek Erickson</title>
+      <link>/authors/aerickson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/aerickson/</guid>
+      <description>&lt;p&gt;My long-term research goal is to understand the organizational principles that link cell fate decisions with tissue morphogenesis. To approach this, I currently use lineage tracing, genetic perturbations, single-cell transcriptomics, and microscopy to study how cell signaling networks control the dynamic clonal behaviors in the neural crest. I am also concerned with promoting a healthy connection between biological research and the humanities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aliia Murtazina</title>
+      <link>/authors/amurtazina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/amurtazina/</guid>
+      <description>&lt;p&gt;My research projects are focused on the development of parasympathetic ganglion from SCPs. I am also trying to understand disease progression of neuroblastoma and paraganglioma. The methods currently used for these studies include single cell RNA sequencing, lineage tracing, and microscopy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Igor Adameyko</title>
+      <link>/authors/iadameyko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/iadameyko/</guid>
+      <description>&lt;p&gt;We are currently engaged in the discovery of multipotency of nerve-associated Schwann-cell precursors, a population of neural crest derived cells with exceptional plasticity and distribution in the body. These studies introduced a radically new concept for developmental biology in that defined precursor pools existing in a highly specialized niche use nerves as conduits to migrate and differentiate through temporally and spatially delineated nerve-Schwann cell communication. Can Schwann cells be genuinely multipotent? If so, this would transform the above discoveries into a global concept in which nerve-associated progenitors could generate various cell types during not only physiological development but also adulthood.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Irina Poverennaya</title>
+      <link>/authors/ipoverennaya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/ipoverennaya/</guid>
+      <description>&lt;p&gt;PhD student (bioinformatician) graduated from Lomonosov Moscow State University, Faculty of Bioengineering and Bioinformatics, and being happy to start my PhD project here about the comparative analysis of the neural crest gene regulatory networks in search of evolutionary common regulatory cores.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Johan Boström</title>
+      <link>/authors/jbostrom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/jbostrom/</guid>
+      <description>&lt;p&gt;My work in the Adameyko Lab focuses on developing spatial transcriptomic methods, which is especially useful for developmental biology. We are using both array-based and probe-based methods of spatial transcriptomics, both utilizing automated imaging and fluidics. By adding spatial information to modern RNA sequencing techniques, we can gain additional insights during development, such as the impacts of local environments, cellular interactions, and intracellular heterogeneity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Louis Faure</title>
+      <link>/authors/lfaure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/lfaure/</guid>
+      <description>&lt;p&gt;My PhD aims to to expand our views on the evolution of neural crest properties. More precisely by unravelling the cell fate decisions of neural crests cells during mouse development and by exploring the heterogeneity of glial cells during development and adulthood in mouse.&lt;/p&gt;
+
+&lt;p&gt;My current work is mainly based on the usage of bioinformatic tools such as single-cell transcriptomics data analysis, clustering, pseudotime ordering, combined with biological experiments for validation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maria Eleni Kastriti</title>
+      <link>/authors/mkastriti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/mkastriti/</guid>
+      <description>&lt;p&gt;My projects focus on the neural crest and peripheral glia lineages (Schwann cell precursors and Schwann cells) and their multipotency as well as elaboration of function and the role of extrinsic or intrinsic signaling. Specifically, I am interested in the mechanisms driving  differentiation or maintenance of stem cell-like properties of embryonic progenitors. Lastly, I am studying the subdivision of roles of fully differentiated Schwann cells along peripheral axons and the cross-talk between the peripheral glia and other cell types of the peripheral nervous system (neurons and neuroendocrine cells).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natalia Akkuratova</title>
+      <link>/authors/nakkuratova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nakkuratova/</guid>
+      <description>&lt;p&gt;My PhD thesis is devoted to development of adrenal medulla (AM) of adrenal gland, Zuckerkandl organ (ZO) and the area around these two organs that might become malignant. I focus mainly on Schwann cell precursor cells (SCPs) and its derivatives, trying to answer next questions: how do cells make their choice which differentiating path to choose? What does the mechanism underlie in disappearing of ZO? Is there any common with the way some types of neuroblastoma dissolve in children? That puzzles me a lot and gives an inspiration to dig deeper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polina Kameneva</title>
+      <link>/authors/pkameneva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/pkameneva/</guid>
+      <description>&lt;p&gt;My projects focus on unraveling cell multipotency and their potential acquisition of the disease or pre-malignant state. I use the early neural crest and sympathoadrenal lineages as a model system to understand what changes during the development influence cell potential to develop neurocristopathies.  I apply lineage tracing, single-cell multi-omics, stem cell cultures, and organoids to study cell fate decisions in health and disease states&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rozalina Galimullina</title>
+      <link>/authors/rgalimullina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/rgalimullina/</guid>
+      <description>&lt;p&gt;I am interested in all the diversity of cellular processes neural crest cells take part in: from the formation of individual facial features to the development of the peripheral nervous system. But my main PhD project focus is on tracking the developmental origin of Ewing sarcoma, where I unravel whether neural crest-derived differentiation could be an alternative cell-of-origin candidate for sarcomas. As a model system for this, I use human pluripotent stem cell cultures differentiated into downstream cellular fates and further analyze their gene expression changes on a single-cell level using bioinformatic tools.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sergey Isaev</title>
+      <link>/authors/sisaev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/sisaev/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a bioinformatics scientist doing my PhD at the Adameyko lab. I graduated from the Faculty of Bioengineering and Bioinformatics of Moscow State University and also have industrial experience working at BostonGene company. My previous experience was related to the analysis of scRNA-Seq datasets of different lymphomas to get insights into their microenvironment and tissue architecture.&lt;/p&gt;
+
+&lt;p&gt;My PhD research here is aimed to understand key features of neural crest cells’ fate decisions during embryogenesis based on lineage tracing data from different developmental time points and with different genetic perturbations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thibault Bouderlique</title>
+      <link>/authors/tbouderlique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/tbouderlique/</guid>
+      <description>&lt;p&gt;Thibault studies the processes involved in the development of the jaw.
+Combining cytometry, microscopy, cell tracing and transcriptomics, he
+aims to understand the mechanisms behind the induction and growth of the
+teeth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yakov Gerstein</title>
+      <link>/authors/ygerstein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/ygerstein/</guid>
+      <description>&lt;p&gt;My research is about the reconstruction of genetic mechanisms driving neural crest development and ensuring diversity of facial appearances.&lt;/p&gt;
+
+&lt;p&gt;One of the main goals of my thesis project is to investigate the basic developmental mechanisms responsible for the progression of neural crest and craniofacial complex&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yuliia Fatieieva</title>
+      <link>/authors/yfatieieva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/yfatieieva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

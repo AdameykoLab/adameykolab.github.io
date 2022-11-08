@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aliia Murtazina | AdameykoLab</title>
+    <link>/authors/amurtazina/</link>
+      <atom:link href="/authors/amurtazina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aliia Murtazina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Aliia Murtazina</title>
+      <link>/authors/amurtazina/</link>
+    </image>
+    
+  </channel>
+</rss>

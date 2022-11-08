@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Chontorotzea | AdameykoLab</title>
+    <link>/authors/t.-chontorotzea/</link>
+      <atom:link href="/authors/t.-chontorotzea/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Chontorotzea</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>T. Chontorotzea</title>
+      <link>/authors/t.-chontorotzea/</link>
+    </image>
+    
+    <item>
+      <title>Dental cell type atlas reveals stem and differentiated cell types in mouse and human teeth</title>
+      <link>/publication/krivanek2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/krivanek2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal structure of cell fate decisions in murine neural crest</title>
+      <link>/publication/soldatov2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/soldatov2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipotent peripheral glial cells generate neuroendocrine cells of the adrenal medulla</title>
+      <link>/publication/furlan2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/furlan2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

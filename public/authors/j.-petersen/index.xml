@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Petersen | AdameykoLab</title>
+    <link>/authors/j.-petersen/</link>
+      <atom:link href="/authors/j.-petersen/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Petersen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J. Petersen</title>
+      <link>/authors/j.-petersen/</link>
+    </image>
+    
+    <item>
+      <title>Surface flow for colonial integration in reef-building corals</title>
+      <link>/publication/bouderlique2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/bouderlique2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dental cell type atlas reveals stem and differentiated cell types in mouse and human teeth</title>
+      <link>/publication/krivanek2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/krivanek2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal structure of cell fate decisions in murine neural crest</title>
+      <link>/publication/soldatov2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/soldatov2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipotent peripheral glial cells generate neuroendocrine cells of the adrenal medulla</title>
+      <link>/publication/furlan2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/furlan2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nerve-associated neural crest: peripheral glial cells generate multiple fates in the body</title>
+      <link>/publication/petersen2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/petersen2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,11 +2,12 @@
 authors:
 - admin
 email: "thibault.bouderlique@meduniwien.ac.at"
-interests:
+title: Thibault Bouderlique
 name: Thibault Bouderlique
+role: Postdoctoral fellow
 organizations:
 - name: Medical University of Vienna
-  url: ""
+  url: "https://www.meduniwien.ac.at/web/en/"
 social:
 - icon: envelope
   icon_pack: fas

@@ -1,0 +1,17 @@
+span.__dimensions_badge_embed__.btn.btn-shield {
+    padding: 0px 0.0rem 0px .0rem;
+    display: contents;
+}
+
+img.btn.btn-shield {
+    padding: 0px 0.0rem 0px .0rem;
+    max-width: none !important;
+}
+
+.portraitmain {
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+    border-radius: 50%;
+    object-fit: cover;
+}

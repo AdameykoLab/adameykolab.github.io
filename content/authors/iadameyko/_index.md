@@ -1,17 +1,21 @@
 ---
 authors:
 - iadameyko
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-
-interests:
-
+title: Igor Adameyko
 name: Igor Adameyko
+role: Head of the Lab
 organizations:
 - name: Medical University of Vienna
+  url: "https://www.meduniwien.ac.at/web/en/"
 - name: Karolinska Institute
-  url: ""
+  url: "https://ki.se/en"
 social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:igor.adameyko@ki.se'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:igor.adameyko@meduniwien.ac.at'
 superuser: true
 user_groups:
 - Head of the Lab

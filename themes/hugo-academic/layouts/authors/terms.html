@@ -9,13 +9,7 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
-  <ul>
-    {{ $paginator := .Paginate .Data.Pages }}
-    {{ range $k, $v := $paginator.Pages }}
-      {{ $name := $v.Params.name | default ($v.Title|plainify) }}
-      <li><a href="{{$v.Permalink}}">{{$name}}</a></li>
-    {{ end }}
-  </ul>
+
 
   {{ partial "pagination" . }}
 </div>

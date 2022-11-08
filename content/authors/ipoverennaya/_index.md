@@ -2,11 +2,12 @@
 authors:
 - admin
 email: "irina.poverennaya@meduniwien.ac.at"
-interests:
+title: Irina Poverennaya
 name: Irina Poverennaya
+role: PhD Student
 organizations:
 - name: Medical University of Vienna
-  url: ""
+  url: "https://www.meduniwien.ac.at/web/en/"
 social:
 - icon: envelope
   icon_pack: fas

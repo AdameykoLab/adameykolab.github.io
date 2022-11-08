@@ -1,14 +1,13 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
 email: "louis.faure@meduniwien.ac.at"
-interests:
 name: Louis Faure
+title: Louis Faure
+role: PhD Student
 organizations:
 - name: Medical University of Vienna
-  url: ""
+  url: "https://www.meduniwien.ac.at/web/en/"
 social:
 - icon: envelope
   icon_pack: fas

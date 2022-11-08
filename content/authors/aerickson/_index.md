@@ -2,11 +2,12 @@
 authors:
 - admin
 email: "alek.erickson@ki.se"
-interests:
+title: Alek Erickson
 name: Alek Erickson
+role: Postdoctoral fellow
 organizations:
 - name: Karolinska Institute
-  url: ""
+  url: "https://ki.se/en"
 social:
 - icon: envelope
   icon_pack: fas

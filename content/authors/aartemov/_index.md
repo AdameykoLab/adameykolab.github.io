@@ -13,7 +13,7 @@ social:
   link: 'mailto:artem.v.artemov@gmail.com'
 superuser: true
 user_groups:
-- Postdoctoral fellows
+- Former members
 ---
 
 Bioinformatician and a data scientist interested in how and when cell fate decisions are made.

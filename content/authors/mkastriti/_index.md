@@ -12,6 +12,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:maria.kastriti@meduniwien.ac.at'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/MarilenaKastri1
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/maria-eleni-kastriti-68916b55/
 superuser: true
 user_groups:
 - Postdoctoral fellows

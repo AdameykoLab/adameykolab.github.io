@@ -1027,10 +1027,6 @@
   </url>
   
   <url>
-    <loc>/authors/dvanshen/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/aerickson/</loc>
   </url>
   
@@ -1040,6 +1036,10 @@
   
   <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/dvanshen/</loc>
   </url>
   
   <url>

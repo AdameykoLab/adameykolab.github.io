@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. E. Kastriti | AdameykoLab</title>
+    <link>/authors/m.-e.-kastriti/</link>
+      <atom:link href="/authors/m.-e.-kastriti/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. E. Kastriti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. E. Kastriti</title>
+      <link>/authors/m.-e.-kastriti/</link>
+    </image>
+    
+    <item>
+      <title>A previously uncharacterized Factor Associated with Metabolism and Energy (FAME/C14orf105/CCDC198/1700011H14Rik) is related to evolutionary adaptation, energy balance, and kidney physiology</title>
+      <link>/publication/petersen2023/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/petersen2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

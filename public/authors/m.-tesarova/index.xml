@@ -5,12 +5,36 @@
     <link>/authors/m.-tesarova/</link>
       <atom:link href="/authors/m.-tesarova/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Tesarova</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>M. Tesarova</title>
       <link>/authors/m.-tesarova/</link>
     </image>
+    
+    <item>
+      <title>A previously uncharacterized Factor Associated with Metabolism and Energy (FAME/C14orf105/CCDC198/1700011H14Rik) is related to evolutionary adaptation, energy balance, and kidney physiology</title>
+      <link>/publication/petersen2023/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/petersen2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directionality of developing skeletal muscles is set by mechanical forces</title>
+      <link>/publication/sunadome2023/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/sunadome2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altered developmental programs and oriented cell divisions lead to bulky bones during salamander limb regeneration</title>
+      <link>/publication/kaukua2022/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/kaukua2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Serotonin limits generation of chromaffin cells during adrenal organ development</title>

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,642 @@
     </image>
     
     <item>
+      <title>A. Grabowski</title>
+      <link>/authors/a.-grabowski/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-grabowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Szilvásy-Szabó</title>
+      <link>/authors/a.-szilvasy-szabo/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-szilvasy-szabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. V. Artemov</title>
+      <link>/authors/a.-v.-artemov/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-v.-artemov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Fekete</title>
+      <link>/authors/c.-fekete/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-fekete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Kuppe</title>
+      <link>/authors/c.-kuppe/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-kuppe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Lindgren</title>
+      <link>/authors/d.-lindgren/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-lindgren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. P. Reguera</title>
+      <link>/authors/d.-p.-reguera/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-p.-reguera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Potesil</title>
+      <link>/authors/d.-potesil/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-potesil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. E. Akkuratov</title>
+      <link>/authors/e.-e.-akkuratov/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-e.-akkuratov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Erdélyi</title>
+      <link>/authors/f.-erdelyi/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/f.-erdelyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Szabó</title>
+      <link>/authors/g.-szabo/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-szabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Axelson</title>
+      <link>/authors/h.-axelson/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/h.-axelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Zeberg</title>
+      <link>/authors/h.-zeberg/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/h.-zeberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>I. Adameyko</title>
       <link>/authors/i.-adameyko/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       <guid>/authors/i.-adameyko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Poverennaya</title>
+      <link>/authors/i.-poverennaya/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-poverennaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Kaiser</title>
+      <link>/authors/j.-kaiser/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-kaiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Krivanek</title>
+      <link>/authors/j.-krivanek/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-krivanek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Petersen</title>
+      <link>/authors/j.-petersen/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-petersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Prochazka</title>
+      <link>/authors/j.-prochazka/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-prochazka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Rozman</title>
+      <link>/authors/j.-rozman/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-rozman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Fried</title>
+      <link>/authors/k.-fried/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-fried/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Gömöryová</title>
+      <link>/authors/k.-gomoryova/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-gomoryova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Englmaier</title>
+      <link>/authors/l.-englmaier/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-englmaier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. E. Buhl</title>
+      <link>/authors/m.-e.-buhl/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-e.-buhl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. E. Kastriti</title>
+      <link>/authors/m.-e.-kastriti/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-e.-kastriti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Kaucka</title>
+      <link>/authors/m.-kaucka/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-kaucka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Kavkova</title>
+      <link>/authors/m.-kavkova/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-kavkova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Tesarova</title>
+      <link>/authors/m.-tesarova/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-tesarova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Gusev</title>
+      <link>/authors/o.-gusev/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/o.-gusev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Boor</title>
+      <link>/authors/p.-boor/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-boor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Kasparek</title>
+      <link>/authors/p.-kasparek/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-kasparek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Deviatiiarov</title>
+      <link>/authors/r.-deviatiiarov/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-deviatiiarov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Kramann</title>
+      <link>/authors/r.-kramann/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-kramann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Mahmoud</title>
+      <link>/authors/r.-mahmoud/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-mahmoud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. S. Ganji</title>
+      <link>/authors/r.-s.-ganji/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-s.-ganji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Sedlacek</title>
+      <link>/authors/r.-sedlacek/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-sedlacek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Knauth</title>
+      <link>/authors/s.-knauth/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-knauth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Bouderlique</title>
+      <link>/authors/t.-bouderlique/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-bouderlique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Harkany</title>
+      <link>/authors/t.-harkany/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-harkany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Koehne</title>
+      <link>/authors/t.-koehne/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-koehne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Radaszkiewicz</title>
+      <link>/authors/t.-radaszkiewicz/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-radaszkiewicz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Zikmund</title>
+      <link>/authors/t.-zikmund/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-zikmund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Bryja</title>
+      <link>/authors/v.-bryja/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-bryja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. Máté</title>
+      <link>/authors/z.-mate/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/z.-mate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. Zdrahal</title>
+      <link>/authors/z.-zdrahal/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/z.-zdrahal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. G. Erickson</title>
+      <link>/authors/a.-g.-erickson/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-g.-erickson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Fabry</title>
+      <link>/authors/b.-fabry/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/b.-fabry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Adori</title>
+      <link>/authors/c.-adori/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-adori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Kah</title>
+      <link>/authors/d.-kah/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-kah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. D. Ellström</title>
+      <link>/authors/i.-d.-ellstrom/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-d.-ellstrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Maki</title>
+      <link>/authors/k.-maki/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-maki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Sunadome</title>
+      <link>/authors/k.-sunadome/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-sunadome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Faure</title>
       <link>/authors/l.-faure/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       <guid>/authors/l.-faure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Kameneva</title>
+      <link>/authors/p.-kameneva/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-kameneva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Edwards</title>
+      <link>/authors/s.-edwards/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-edwards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Kanatani</title>
+      <link>/authors/s.-kanatani/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-kanatani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Adachi</title>
+      <link>/authors/t.-adachi/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-adachi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Yamamoto</title>
+      <link>/authors/t.-yamamoto/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-yamamoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Murtazina</title>
+      <link>/authors/a.-murtazina/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-murtazina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Buchtova</title>
+      <link>/authors/m.-buchtova/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-buchtova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Artemov</title>
+      <link>/authors/a.-artemov/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-artemov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Zhou</title>
+      <link>/authors/c.-zhou/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Rohner</title>
+      <link>/authors/e.-rohner/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-rohner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Sohlmér</title>
+      <link>/authors/j.-sohlmer/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-sohlmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Sahara</title>
+      <link>/authors/m.-sahara/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-sahara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Häneke</title>
+      <link>/authors/t.-haneke/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-haneke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. V. Kharchenko</title>
+      <link>/authors/p.-v.-kharchenko/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-v.-kharchenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Soldatov</title>
+      <link>/authors/r.-soldatov/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-soldatov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Bouchnita</title>
+      <link>/authors/a.-bouchnita/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-bouchnita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Elewa</title>
+      <link>/authors/a.-elewa/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-elewa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Hellander</title>
+      <link>/authors/a.-hellander/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-hellander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. J. Araus</title>
+      <link>/authors/a.-j.-araus/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-j.-araus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. S. Chagin</title>
+      <link>/authors/a.-s.-chagin/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-s.-chagin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Simon</title>
+      <link>/authors/a.-simon/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-simon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. M. Tanaka</title>
+      <link>/authors/e.-m.-tanaka/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-m.-tanaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Boström</title>
+      <link>/authors/j.-bostrom/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-bostrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. D. Currie</title>
+      <link>/authors/j.-d.-currie/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-d.-currie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Fei</title>
+      <link>/authors/j.-fei/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-fei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. T. Newton</title>
+      <link>/authors/p.-t.-newton/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-t.-newton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. Yao</title>
+      <link>/authors/z.-yao/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/z.-yao/</guid>
       <description></description>
     </item>
     
@@ -41,14 +665,6 @@
       <link>/authors/n.-akkuratova/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/authors/n.-akkuratova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. Kameneva</title>
-      <link>/authors/p.-kameneva/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/p.-kameneva/</guid>
       <description></description>
     </item>
     
@@ -93,34 +709,10 @@
     </item>
     
     <item>
-      <title>J. Boström</title>
-      <link>/authors/j.-bostrom/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-bostrom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>J. Brunet</title>
       <link>/authors/j.-brunet/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>/authors/j.-brunet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Krivanek</title>
-      <link>/authors/j.-krivanek/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-krivanek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Fried</title>
-      <link>/authors/k.-fried/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-fried/</guid>
       <description></description>
     </item>
     
@@ -137,14 +729,6 @@
       <link>/authors/m.-bronner/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>/authors/m.-bronner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Kaucka</title>
-      <link>/authors/m.-kaucka/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-kaucka/</guid>
       <description></description>
     </item>
     
@@ -197,22 +781,6 @@
     </item>
     
     <item>
-      <title>A. Murtazina</title>
-      <link>/authors/a.-murtazina/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-murtazina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. V. Artemov</title>
-      <link>/authors/a.-v.-artemov/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-v.-artemov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>B. I. Sheftel</title>
       <link>/authors/b.-i.-sheftel/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
@@ -233,22 +801,6 @@
       <link>/authors/e.-kryukov/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>/authors/e.-kryukov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I. Poverennaya</title>
-      <link>/authors/i.-poverennaya/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/i.-poverennaya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Kaiser</title>
-      <link>/authors/j.-kaiser/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-kaiser/</guid>
       <description></description>
     </item>
     
@@ -301,14 +853,6 @@
     </item>
     
     <item>
-      <title>M. Tesarova</title>
-      <link>/authors/m.-tesarova/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-tesarova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>N. Alenina</title>
       <link>/authors/n.-alenina/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
@@ -349,14 +893,6 @@
     </item>
     
     <item>
-      <title>T. Zikmund</title>
-      <link>/authors/t.-zikmund/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-zikmund/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>V. D. Yakushov</title>
       <link>/authors/v.-d.-yakushov/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
@@ -369,30 +905,6 @@
       <link>/authors/v.-i.-melnikova/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>/authors/v.-i.-melnikova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Bouchnita</title>
-      <link>/authors/a.-bouchnita/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-bouchnita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. G. Erickson</title>
-      <link>/authors/a.-g.-erickson/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-g.-erickson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Hellander</title>
-      <link>/authors/a.-hellander/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-hellander/</guid>
       <description></description>
     </item>
     
@@ -429,22 +941,6 @@
     </item>
     
     <item>
-      <title>J. Petersen</title>
-      <link>/authors/j.-petersen/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-petersen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. Englmaier</title>
-      <link>/authors/l.-englmaier/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-englmaier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M. Nazarov</title>
       <link>/authors/m.-nazarov/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -469,18 +965,74 @@
     </item>
     
     <item>
-      <title>T. Bouderlique</title>
-      <link>/authors/t.-bouderlique/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-bouderlique/</guid>
+      <title>A. Reinhardt</title>
+      <link>/authors/a.-reinhardt/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-reinhardt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>T. Koehne</title>
-      <link>/authors/t.-koehne/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-koehne/</guid>
+      <title>C. Gustafsson</title>
+      <link>/authors/c.-gustafsson/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-gustafsson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Dunst</title>
+      <link>/authors/j.-dunst/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-dunst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Busslinger</title>
+      <link>/authors/m.-busslinger/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-busslinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Månsson</title>
+      <link>/authors/r.-mansson/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-mansson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Rauschmeier</title>
+      <link>/authors/r.-rauschmeier/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-rauschmeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Taneja</title>
+      <link>/authors/r.-taneja/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-taneja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Kreslavsky</title>
+      <link>/authors/t.-kreslavsky/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-kreslavsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Glaros</title>
+      <link>/authors/v.-glaros/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-glaros/</guid>
       <description></description>
     </item>
     
@@ -557,26 +1109,10 @@
     </item>
     
     <item>
-      <title>O. Gusev</title>
-      <link>/authors/o.-gusev/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/o.-gusev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>P. Kogner</title>
       <link>/authors/p.-kogner/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/authors/p.-kogner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P. V. Kharchenko</title>
-      <link>/authors/p.-v.-kharchenko/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/p.-v.-kharchenko/</guid>
       <description></description>
     </item>
     
@@ -721,14 +1257,6 @@
       <link>/authors/t.-chontorotzea/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/t.-chontorotzea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. Harkany</title>
-      <link>/authors/t.-harkany/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-harkany/</guid>
       <description></description>
     </item>
     
@@ -973,14 +1501,6 @@
     </item>
     
     <item>
-      <title>R. Soldatov</title>
-      <link>/authors/r.-soldatov/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-soldatov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>W. Yu Hsiao</title>
       <link>/authors/w.-yu-hsiao/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
@@ -1054,14 +1574,6 @@
       <link>/authors/h.-abdo/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>/authors/h.-abdo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Sunadome</title>
-      <link>/authors/k.-sunadome/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-sunadome/</guid>
       <description></description>
     </item>
     
@@ -1234,17 +1746,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/aartemov/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/aartemov/</guid>
-      <description>&lt;p&gt;Bioinformatician and a data scientist interested in how and when cell fate decisions are made.
-We apply different techniques to profile cell lineage, transcriptome and epigenome in individual cells during human development and immune response.
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Alek Erickson</title>
       <link>/authors/aerickson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1259,6 +1760,16 @@ We apply different techniques to profile cell lineage, transcriptome and epigeno
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/amurtazina/</guid>
       <description>&lt;p&gt;My research projects are focused on the development of parasympathetic ganglion from SCPs. I am also trying to understand disease progression of neuroblastoma and paraganglioma. The methods currently used for these studies include single cell RNA sequencing, lineage tracing, and microscopy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artem Artemov</title>
+      <link>/authors/aartemov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/aartemov/</guid>
+      <description>&lt;p&gt;Bioinformatician and a data scientist interested in how and when cell fate decisions are made.
+We apply different techniques to profile cell lineage, transcriptome and epigenome in individual cells during human development and immune response.&lt;/p&gt;
 </description>
     </item>
     

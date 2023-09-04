@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Fabry | AdameykoLab</title>
+    <link>/authors/b.-fabry/</link>
+      <atom:link href="/authors/b.-fabry/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Fabry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>B. Fabry</title>
+      <link>/authors/b.-fabry/</link>
+    </image>
+    
+    <item>
+      <title>Directionality of developing skeletal muscles is set by mechanical forces</title>
+      <link>/publication/sunadome2023/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/sunadome2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

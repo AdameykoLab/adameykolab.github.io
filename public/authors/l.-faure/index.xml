@@ -5,12 +5,28 @@
     <link>/authors/l.-faure/</link>
       <atom:link href="/authors/l.-faure/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Faure</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>L. Faure</title>
       <link>/authors/l.-faure/</link>
     </image>
+    
+    <item>
+      <title>Directionality of developing skeletal muscles is set by mechanical forces</title>
+      <link>/publication/sunadome2023/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/sunadome2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scFates: a scalable python package for advanced pseudotime and bifurcation analysis from single-cell data</title>
+      <link>/publication/faure2022/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/faure2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Developmental heterogeneity of embryonic neuroendocrine chromaffin cells and their maturation dynamics</title>

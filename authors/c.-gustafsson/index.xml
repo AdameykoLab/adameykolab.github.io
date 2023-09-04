@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Gustafsson | AdameykoLab</title>
+    <link>/authors/c.-gustafsson/</link>
+      <atom:link href="/authors/c.-gustafsson/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Gustafsson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site written by [Louis Faure](https://louisfaure.github.io/)</copyright><lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C. Gustafsson</title>
+      <link>/authors/c.-gustafsson/</link>
+    </image>
+    
+    <item>
+      <title>Bhlhe40 function in activated B and TFH cells restrains the GC reaction and prevents lymphomagenesis</title>
+      <link>/publication/rauschmeier2021/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/rauschmeier2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

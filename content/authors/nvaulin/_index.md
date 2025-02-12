@@ -1,12 +1,7 @@
 ---
 authors:
 - admin
-mailto:
-https://github.com/nvaulin
-https://www.linkedin.com/in/nvaulin/
-
 email: "nikita.vaulin@meduniwien.ac.at"
-interests:
 name: Nikita Vaulin
 title: Nikita Vaulin
 role: PhD Student

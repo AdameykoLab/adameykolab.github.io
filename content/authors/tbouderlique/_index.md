@@ -14,7 +14,7 @@ social:
   link: 'mailto:thibault.bouderlique@meduniwien.ac.at'
 superuser: true
 user_groups:
-- Postdoctoral fellows
+- Alumni
 ---
 
 Thibault studies the processes involved in the development of the jaw.

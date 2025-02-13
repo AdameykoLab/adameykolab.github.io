@@ -20,8 +20,8 @@ education:
       institution: Lipscomb University
       year: 2019
 organizations:
-- name: Medical University of Vienna
-  url: "https://www.meduniwien.ac.at/web/en/"
+- name: Karolinska Institutet
+  url: "https://ki.se/en"
 social:
 - icon: envelope
   icon_pack: fas

@@ -26,7 +26,7 @@ subtitle = ""
   icon = "confocal"
   icon_pack = "custom"
   name = "Advanced imaging"
-  description = "RNAscope<br/>MERFISH (coming soon)<br/>Slide-seq (coming soon)"
+  description = "RNAscope<br/>MERFISH<br/>Slide-seq"
   
 [[feature]]
   icon = "scRNAseq"

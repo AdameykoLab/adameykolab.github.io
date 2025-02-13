@@ -30,15 +30,18 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nvaulin
+- icon: user
+  icon_pack: far
+  link: https://nvaulin.github.io/
 - icon: twitter
   icon_pack: fab
   link: https://x.com/vaulin2
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/nvaulin/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=bPb9rVIAAAAJ&hl=ru
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=bPb9rVIAAAAJ&hl=ru=
 superuser: true
 user_groups:
 - PhD Students

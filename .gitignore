@@ -1,2 +1,2 @@
-resources
+resources/*
 .hugo_build.lock

@@ -20,19 +20,19 @@ subtitle = ""
   icon = "embryo"
   icon_pack = "custom"
   name = "Developmental studies"
-  description = "Lineage tracing<br/>Cell type ablation<br/>Cell selection via FACS"  
+  description = "Lineage tracing<br/>Cell type ablation<br/>Organoid and assembloid models"   
 
 [[feature]]
   icon = "confocal"
   icon_pack = "custom"
   name = "Advanced imaging"
-  description = "RNAscope<br/>MERFISH<br/>Slide-seq"
+  description = "3D microscopy<br/>MERFISH and Slide-seq<br/>RNAscope"
   
 [[feature]]
   icon = "scRNAseq"
   icon_pack = "custom"
   name = "Advanced bioinformatics"
-  description = "scRNAseq and scATACseq<br/>Trajectory analysis and viral barcoding<br/>Non-model organism exploration"  
+  description = "scRNA-seq and scATAC-seq<br/>Trajectory analysis and viral barcoding<br/>Machine learning for cell fates tracing"  
 
 
 +++

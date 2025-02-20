@@ -31,7 +31,7 @@ social:
   link: 'mailto:tobias.steinschaden@meduniwien.ac.at'
 - icon: wordpress
   icon_pack: fab
-  link: 'https://tobiassteinschaden.at/contact/'
+  link: 'https://tobiassteinschaden.at/'
 superuser: true
 user_groups:
 - PhD Students

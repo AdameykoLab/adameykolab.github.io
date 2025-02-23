@@ -31,6 +31,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sv_isaev
+- icon: user
+  icon_pack: far
+  link: https://isaev.cc/
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/sergisaev/

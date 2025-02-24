@@ -15,9 +15,12 @@ education:
     - course: PhD in Neuroscience
       institution: Medical University of Vienna
       year: in progress
-    - course: MSc in Embryology
-      institution: MSU
-      year: 2024
+    - course: MSc in Genomics and Human Health
+      institution: Lomonosov Moscow State University
+      year: 2022 - 2024
+    - course: BSc in Emryology
+      institution: Lomonosov Moscow State University
+      year: 2018 - 2022
 organizations:
 - name: Medical University of Vienna
   url: "https://www.meduniwien.ac.at/web/en/"

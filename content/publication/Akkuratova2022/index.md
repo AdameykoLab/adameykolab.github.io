@@ -1,7 +1,7 @@
 +++
 title = "Developmental heterogeneity of embryonic neuroendocrine chromaffin cells and their maturation dynamics"
 date = "2022-09-01"
-authors = ["N. Akkuratova","L. Faure","P. Kameneva","M. Eleni Kastriti","I. Adameyko"]
+authors = ["N. Akkuratova", "L. Faure", "P. Kameneva", "M. E. Kastriti", "I. Adameyko"]
 tags = []
 n_cofirsts = "2"
 publication_types = ["2"]

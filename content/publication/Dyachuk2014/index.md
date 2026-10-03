@@ -1,7 +1,7 @@
 +++
 title = "Parasympathetic neurons originate from nerve-associated peripheral glial progenitors"
 date = "2014-06-01"
-authors = ["V. Dyachuk","A. Furlan","M. Khatibi Shahidi","M. Giovenco","N. Kaukua","C. Konstantinidou","V. Pachnis","F. Memic","U. Marklund","T. Müller","C. Birchmeier","K. Fried","P. Ernfors","I. Adameyko"]
+authors = ["V. Dyachuk", "A. Furlan", "M. Khatibi Shahidi", "M. Giovenco", "N. Kaukua", "C. Konstantinidou", "V. Pachnis", "F. Memic", "U. Marklund", "T. Müller", "C. Birchmeier", "K. Fried", "P. Ernfors", "I. Adameyko"]
 tags = []
 n_cofirsts = "2"
 publication_types = ["2"]

@@ -1,7 +1,7 @@
 +++
 title = "Serotonin limits generation of chromaffin cells during adrenal organ development"
 date = "2022-05-01"
-authors = ["P. Kameneva","V. I. Melnikova","M. Eleni Kastriti","A. Kurtova","E. Kryukov","A. Murtazina","L. Faure","I. Poverennaya","A. V. Artemov","T. S. Kalinina","N. V. Kudryashov","M. Bader","J. Skoda","P. Chlapek","L. Curylova","L. Sourada","J. Neradil","M. Tesarova","M. Pasqualetti","P. Gaspar","V. D. Yakushov","B. I. Sheftel","T. Zikmund","J. Kaiser","K. Fried","N. Alenina","E. E. Voronezhskaya","I. Adameyko"]
+authors = ["P. Kameneva", "V. I. Melnikova", "M. E. Kastriti", "A. Kurtova", "E. Kryukov", "A. Murtazina", "L. Faure", "I. Poverennaya", "A. V. Artemov", "T. S. Kalinina", "N. V. Kudryashov", "M. Bader", "J. Skoda", "P. Chlapek", "L. Curylova", "L. Sourada", "J. Neradil", "M. Tesarova", "M. Pasqualetti", "P. Gaspar", "V. D. Yakushov", "B. I. Sheftel", "T. Zikmund", "J. Kaiser", "K. Fried", "N. Alenina", "E. E. Voronezhskaya", "I. Adameyko"]
 tags = []
 n_cofirsts = "2"
 publication_types = ["2"]

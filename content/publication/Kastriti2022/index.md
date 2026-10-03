@@ -1,7 +1,7 @@
 +++
 title = "Schwann cell precursors represent a neural crest-like state with biased multipotency"
 date = "2022-07-01"
-authors = ["M. Eleni Kastriti","L. Faure","D. Von Ahsen","T. Gerald Bouderlique","J. Boström","T. Solovieva","C. Jackson","M. Bronner","D. Meijer","S. Hadjab","F. Lallemend","A. Erickson","M. Kaucka","V. Dyachuk","T. Perlmann","L. Lahti","J. Krivanek","J. Brunet","K. Fried","I. Adameyko"]
+authors = ["M. E. Kastriti", "L. Faure", "D. Von Ahsen", "T. Bouderlique", "J. Boström", "T. Solovieva", "C. Jackson", "M. E. Bronner", "D. Meijer", "S. Hadjab", "F. Lallemend", "A. G. Erickson", "M. Kaucka", "V. Dyachuk", "T. Perlmann", "L. Lahti", "J. Krivanek", "J.-F. Brunet", "K. Fried", "I. Adameyko"]
 tags = ["multipotency, neural crest, regulons, schwann cell precursors, schwann cell lineage"]
 n_cofirsts = "3"
 publication_types = ["2"]

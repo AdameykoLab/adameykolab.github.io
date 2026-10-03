@@ -1,8 +1,8 @@
 +++
 title = "Surface flow for colonial integration in reef-building corals"
 date = "2022-01-01"
-authors = ["T. Bouderlique","J. Petersen","L. Faure","D. Abed-Navandi","A. Bouchnita","B. Mueller","M. Nazarov","L. Englmaier","M. Tesarova","P. R. Frade","T. Zikmund","T. Koehne","J. Kaiser","K. Fried","C. Wild","O. Pantos","A. Hellander","J. Bythell","I. Adameyko"]
-tags = ["phd"]
+authors = ["T. Bouderlique", "J. Petersen", "L. Faure", "D. Abed-Navandi", "A. Bouchnita", "B. Mueller", "M. Nazarov", "L. Englmaier", "M. Tesarova", "P. R. Frade", "T. Zikmund", "T. Koehne", "J. Kaiser", "K. Fried", "C. Wild", "O. Pantos", "A. Hellander", "J. Bythell", "I. Adameyko"]
+tags = []
 n_cofirsts = "3"
 publication_types = ["2"]
 publication = "_Current Biology_"

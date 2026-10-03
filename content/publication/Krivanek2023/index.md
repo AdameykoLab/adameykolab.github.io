@@ -2,7 +2,7 @@
 title = "Plasticity of Dental Cell Types in Development, Regeneration, and Evolution"
 date = "2023-03-15"
 authors = ["J. Krivanek", "M. Buchtova", "K. Fried", "I. Adameyko"]
-#n_cofirsts = "2"
+n_cofirsts = "0"
 publication_types = ["2"]
 publication = "_Journal of Dental Research_"
 publication_short = ""

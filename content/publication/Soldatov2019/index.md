@@ -1,7 +1,7 @@
 +++
 title = "Spatiotemporal structure of cell fate decisions in murine neural crest"
 date = "2019-09-01"
-authors = ["R. Soldatov","M. Kaucka","M. Eleni Kastriti","J. Petersen","T. Chontorotzea","L. Englmaier","N. Akkuratova","Y. Yang","M. Häring","V. Dyachuk","C. Bock","M. Farlik","M. L. Piacentino","F. Boismoreau","M. M. Hilscher","C. Yokota","X. Qian","M. Nilsson","M. E. Bronner","L. Croci","W. Yu Hsiao","D. A. Guertin","J. Francois Brunet","G. Giacomo Consalez","P. Ernfors","K. Fried","P. V. Kharchenko","I. Adameyko"]
+authors = ["R. A. Soldatov", "M. Kaucka", "M. E. Kastriti", "J. Petersen", "T. Chontorotzea", "L. Englmaier", "N. Akkuratova", "Y. Yang", "M. Häring", "V. Dyachuk", "C. Bock", "M. Farlik", "M. L. Piacentino", "F. Boismoreau", "M. M. Hilscher", "C. Yokota", "X. Qian", "M. Nilsson", "M. E. Bronner", "L. Croci", "W.-Y. Hsiao", "D. A. Guertin", "J.-F. Brunet", "G. G. Consalez", "P. Ernfors", "K. Fried", "P. V. Kharchenko", "I. Adameyko"]
 tags = []
 n_cofirsts = "3"
 publication_types = ["2"]

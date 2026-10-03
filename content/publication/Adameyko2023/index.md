@@ -2,7 +2,7 @@
 title = "Evolutionary origin of the neural tube in basal deuterostomes"
 date = "2023-04-24"
 authors = ["I. Adameyko"]
-#n_cofirsts = "2"
+n_cofirsts = "0"
 publication_types = ["2"]
 publication = "_Current Biology_"
 publication_short = ""

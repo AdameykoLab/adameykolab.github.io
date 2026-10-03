@@ -1,8 +1,8 @@
 +++
 title = "Single-cell transcriptomics of human embryos identifies multiple sympathoblast lineages with potential implications for neuroblastoma origin"
 date = "2021-04-01"
-authors = ["P. Kameneva","A. V. Artemov","M. Eleni Kastriti","L. Faure","T. K. Olsen","J. Otte","A. Erickson","B. Semsch","E. R. Andersson","M. Ratz","J. Frisén","A. S. Tischler","R. R. de Krijger","T. Bouderlique","N. Akkuratova","M. Vorontsova","O. Gusev","K. Fried","E. Sundström","S. Mei","P. Kogner","N. Baryawno","P. V. Kharchenko","I. Adameyko"]
-tags = ["phd"]
+authors = ["P. Kameneva", "A. V. Artemov", "M. E. Kastriti", "L. Faure", "T. K. Olsen", "J. Otte", "A. G. Erickson", "B. Semsch", "E. R. Andersson", "M. Ratz", "J. Frisén", "A. S. Tischler", "R. R. de Krijger", "T. Bouderlique", "N. Akkuratova", "M. Vorontsova", "O. Gusev", "K. Fried", "E. Sundström", "S. Mei", "P. Kogner", "N. Baryawno", "P. V. Kharchenko", "I. Adameyko"]
+tags = []
 n_cofirsts = "2"
 publication_types = ["2"]
 publication = "_Nature Genetics_"

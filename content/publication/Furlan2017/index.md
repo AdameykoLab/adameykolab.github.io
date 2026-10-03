@@ -1,7 +1,7 @@
 +++
 title = "Multipotent peripheral glial cells generate neuroendocrine cells of the adrenal medulla"
 date = "2017-08-01"
-authors = ["A. Furlan","V. Dyachuk","M. Eleni Kastriti","L. Calvo-Enrique","H. Abdo","S. Hadjab","T. Chontorotzea","N. Akkuratova","D. Usoskin","D. Kamenev","J. Petersen","K. Sunadome","F. Memic","U. Marklund","K. Fried","P. Topilko","F. Lallemend","P. V. Kharchenko","P. Ernfors","I. Adameyko"]
+authors = ["A. Furlan", "V. Dyachuk", "M. E. Kastriti", "L. Calvo-Enrique", "H. Abdo", "S. Hadjab", "T. Chontorotzea", "N. Akkuratova", "D. Usoskin", "D. Kamenev", "J. Petersen", "K. Sunadome", "F. Memic", "U. Marklund", "K. Fried", "P. Topilko", "F. Lallemend", "P. V. Kharchenko", "P. Ernfors", "I. Adameyko"]
 tags = []
 n_cofirsts = "3"
 publication_types = ["2"]

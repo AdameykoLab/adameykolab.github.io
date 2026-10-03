@@ -1,7 +1,7 @@
 +++
 title = "Nerve-associated neural crest: peripheral glial cells generate multiple fates in the body"
 date = "2017-08-01"
-authors = ["J. Petersen","I. Adameyko"]
+authors = ["J. Petersen", "I. Adameyko"]
 tags = []
 n_cofirsts = "0"
 publication_types = ["2"]

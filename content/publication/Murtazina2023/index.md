@@ -2,7 +2,7 @@
 title = "The peripheral nervous system"
 date = "2023-05-01"
 authors = ["A. Murtazina", "I. Adameyko"]
-#n_cofirsts = "2"
+n_cofirsts = "0"
 publication_types = ["2"]
 publication = "_Development_"
 publication_short = ""

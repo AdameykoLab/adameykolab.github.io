@@ -1,8 +1,8 @@
 +++
 title = "scFates: a scalable python package for advanced pseudotime and bifurcation analysis from single-cell data"
 date = "2022-11-17"
-authors = ["L. Faure", "R. Soldatov", "P. V. Kharchenko", "I. Adameyko"]
-#n_cofirsts = "1"
+authors = ["L. Faure", "R. A. Soldatov", "P. V. Kharchenko", "I. Adameyko"]
+n_cofirsts = "0"
 publication_types = ["2"]
 publication = "_Bioinformatics_"
 publication_short = ""

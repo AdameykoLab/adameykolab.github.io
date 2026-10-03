@@ -1,7 +1,7 @@
 +++
 title = "Heterogeneity and developmental connections between cell types inhabiting teeth"
 date = "2017-06-01"
-authors = ["J. Krivanek","I. Adameyko","K. Fried"]
+authors = ["J. Krivanek", "I. Adameyko", "K. Fried"]
 tags = ["ameloblast,cell heterogeneity,dental development,dental pulp,odontoblast,odontogenesis,stem cells,tooth"]
 n_cofirsts = "0"
 publication_types = ["2"]

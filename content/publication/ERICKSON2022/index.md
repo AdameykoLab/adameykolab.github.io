@@ -1,7 +1,7 @@
 +++
 title = "The transcriptional portraits of the neural crest at the individual cell level"
 date = "2022-01-01"
-authors = ["A. G. Erickson","P. Kameneva","I. Adameyko"]
+authors = ["A. G. Erickson", "P. Kameneva", "I. Adameyko"]
 tags = []
 n_cofirsts = "2"
 publication_types = ["2"]

@@ -1,7 +1,7 @@
 +++
 title = "The nervous system orchestrates and integrates craniofacial development: A Review"
 date = "2016-02-01"
-authors = ["I. Adameyko","K. Fried"]
+authors = ["I. Adameyko", "K. Fried"]
 tags = ["craniofacial,development,glia,nervous system,stem cell,tooth"]
 n_cofirsts = "0"
 publication_types = ["2"]

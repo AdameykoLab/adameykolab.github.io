@@ -1,7 +1,7 @@
 +++
 title = "Prototypical pacemaker neurons interact with the resident microbiota"
 date = "2020-07-01"
-authors = ["A. Klimovich","S. Giacomello","A. Björklund","L. Faure","M. Kaucka","C. Giez","A. P. Murillo-Rincon","A. Matt","D. Willoweit-Ohl","G. Crupi","J. de Anda","G. C. L. Wong","M. D'Amato","I. Adameyko","T. C. G. Bosch"]
+authors = ["A. Klimovich", "S. Giacomello", "A. Björklund", "L. Faure", "M. Kaucka", "C. Giez", "A. P. Murillo-Rincon", "A. Matt", "D. Willoweit-Ohl", "G. Crupi", "J. de Anda", "G. C. L. Wong", "M. D'Amato", "I. Adameyko", "T. C. G. Bosch"]
 tags = []
 n_cofirsts = "0"
 publication_types = ["2"]

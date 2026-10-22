@@ -4,7 +4,7 @@ authors:
 email: "alek.erickson@ki.se"
 title: Alek Erickson
 name: Alek Erickson
-role: Postdoctoral fellow
+role: Postdoctoral fellow '25
 organizations:
 - name: Karolinska Institute
   url: "https://ki.se/en"
@@ -36,7 +36,7 @@ interests:
 - extracellular matrix
 superuser: true
 user_groups:
-- Postdoctoral fellows
+- Alumni
 ---
 
 My long-term research goal is to understand the organizational principles that link cell fate decisions with tissue morphogenesis. To approach this, I currently use lineage tracing, genetic perturbations, single-cell transcriptomics, and microscopy to study how cell signaling networks control the dynamic clonal behaviors in the neural crest. I am also concerned with promoting a healthy connection between biological research and the humanities. 
